@@ -161,7 +161,7 @@ Die Initiierten töteten eine Handvoll der neuen Siedler im Schutz der Dunkelhei
     </Entry>
     <Entry>
       <ID>30</ID>
-      <DefaultText>Der Adra-Drache, die als ‚Meister in der Tiefe‘ bekannt war und deren Seele nun im Körper der Jägerin Falanroed ruhte, verließ den Dyrwald in relativer Anonymität. Das Ziel ihrer Reise blieb unbekannt, auch für den Drachen selbst.
+      <DefaultText>Der Adra-Drache, die als ›Meister in der Tiefe‹ bekannt war und deren Seele nun im Körper der Jägerin Falanroed ruhte, verließ den Dyrwald in relativer Anonymität. Das Ziel ihrer Reise blieb unbekannt, auch für den Drachen selbst.
 
 Zuletzt wurde sie in der Hafenstadt Wegende gesehen, als sie ein Schiff betrat, mit einem Adra-Talisman um den Hals.</DefaultText>
       <FemaleText />
@@ -229,7 +229,7 @@ In den folgenden Monaten wurden die grenznahen Siedlungen des Dyrwalds unerklär
     </Entry>
     <Entry>
       <ID>43</ID>
-      <DefaultText>Skaen nahm es nicht einfach hin, dass er angelogen worden war, was den Bestimmungsort der Seelen der Hohlgeburten anging. In Skaens Augen war ein Akt des Widerstands gegen den ganzen Dyrwald gerechtfertigt, da dieser seiner Königin ‚ihre‘ Seelen entrissen hatte. Skaen ließ seine Anhänger eine Inkarnation des Bildnisses in die Welt rufen, um Rache zu nehmen. Das war seit über einem Jahrhundert nicht geschehen, und noch nie auf Geheiß des Gottes persönlich hin.</DefaultText>
+      <DefaultText>Skaen nahm es nicht einfach hin, dass er angelogen worden war, was den Bestimmungsort der Seelen der Hohlgeburten anging. In Skaens Augen war ein Akt des Widerstands gegen den ganzen Dyrwald gerechtfertigt, da dieser seiner Königin ›ihre‹ Seelen entrissen hatte. Skaen ließ seine Anhänger eine Inkarnation des Bildnisses in die Welt rufen, um Rache zu nehmen. Das war seit über einem Jahrhundert nicht geschehen, und noch nie auf Geheiß des Gottes persönlich hin.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -539,7 +539,7 @@ In den Städten mussten derweil viele, die sich an der Beseelung versucht hatten
       <ID>97</ID>
       <DefaultText>Eine Epidemie unerklärlicher Tode wucherte in den Tagen, die auf das Vermächtnis folgten, im gesamten Dyrwald. Die meisten der Toten waren Reisende auf den Straßen, eines der liebsten Ziele von Beraths Bleichem Paladin, der unmögliche Wegezölle von jenen verlangt, die schon zu lange unterwegs sind. Auch die Alten schienen in erschreckender Zahl dahinzuscheiden. Ebenso oft aber schien der Tod völlig willkürlich und ohne jeden erkennbaren Grund zuzuschlagen.
 
-Wer die Beteiligung des Zwillingsgottes spürte, der bezeichnete die Katastrophe als „Beraths Preis“, in der Annahme, es handele sich um den Preis, der für das Ende von Waidwens Vermächtnis zu zahlen war.</DefaultText>
+Wer die Beteiligung des Zwillingsgottes spürte, der bezeichnete die Katastrophe als »Beraths Preis«, in der Annahme, es handele sich um den Preis, der für das Ende von Waidwens Vermächtnis zu zahlen war.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>

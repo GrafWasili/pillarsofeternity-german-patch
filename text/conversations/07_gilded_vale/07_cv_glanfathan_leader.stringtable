@@ -25,57 +25,57 @@ Einer von ihnen, baumlang, kräftig und mit einem stattlichen, verknoteten Bart 
     </Entry>
     <Entry>
       <ID>4</ID>
-      <DefaultText>„Leg deine Waffen nieder, Eindringling. Verwirke nicht das Leben dieses Mannes für einen Kampf, den du verlieren würdest.“</DefaultText>
+      <DefaultText>»Leg deine Waffen nieder, Eindringling. Verwirke nicht das Leben dieses Mannes für einen Kampf, den du verlieren würdest.«</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>5</ID>
-      <DefaultText>„Wir sind keine Eindringlinge, wir möchten dieses Gebiet lediglich durchqueren.“</DefaultText>
+      <DefaultText>»Wir sind keine Eindringlinge, wir möchten dieses Gebiet lediglich durchqueren.«</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>6</ID>
-      <DefaultText>„Unsere Hände haben die Ruine nicht besudelt, Männer von Eir Glanfath.“</DefaultText>
+      <DefaultText>»Unsere Hände haben die Ruine nicht besudelt, Männer von Eir Glanfath.«</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>7</ID>
-      <DefaultText>„Ich weiß nicht, was sie getan haben, aber ich hatte überhaupt nichts damit zu tun.“</DefaultText>
+      <DefaultText>»Ich weiß nicht, was sie getan haben, aber ich hatte überhaupt nichts damit zu tun.«</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>8</ID>
-      <DefaultText>„Mörder! Für jedes Leben werdet ihr büßen!“</DefaultText>
+      <DefaultText>»Mörder! Für jedes Leben werdet ihr büßen!«</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>9</ID>
-      <DefaultText>„Warum habt ihr das getan?“</DefaultText>
+      <DefaultText>»Warum habt ihr das getan?«</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>10</ID>
-      <DefaultText>„Deine Worte machen keinen Eindruck auf mich, da ich die Wahrheit mit eigenen Augen gesehen habe. Diese Störung muss mit Blut abgegolten werden.“</DefaultText>
+      <DefaultText>»Deine Worte machen keinen Eindruck auf mich, da ich die Wahrheit mit eigenen Augen gesehen habe. Diese Störung muss mit Blut abgegolten werden.«</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>11</ID>
-      <DefaultText>„Ihr werdet eh versuchen, uns alle zu töten. Warum sollten wir es euch leicht machen?“</DefaultText>
+      <DefaultText>»Ihr werdet eh versuchen, uns alle zu töten. Warum sollten wir es euch leicht machen?«</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>13</ID>
-      <DefaultText>„Ignoranz ist kein Grund zur Freisprechung. Ich habe gesehen, was eure Gruppe im Schilde führt. Eindringlinge und Plünderer seid ihr samt und sonders, und diesen Frevel werden wir rächen.“</DefaultText>
+      <DefaultText>»Ignoranz ist kein Grund zur Freisprechung. Ich habe gesehen, was eure Gruppe im Schilde führt. Eindringlinge und Plünderer seid ihr samt und sonders, und diesen Frevel werden wir rächen.«</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>14</ID>
-      <DefaultText>„Ein von den Göttern gewollter Tod ist kein Mord, sondern Gerechtigkeit. Ihr seid in Orte eingedrungen, derer kein sterblicher Mann wert ist. Die Schuld haben nicht wir zu bezahlen, sondern ihr.“</DefaultText>
+      <DefaultText>»Ein von den Göttern gewollter Tod ist kein Mord, sondern Gerechtigkeit. Ihr seid in Orte eingedrungen, derer kein sterblicher Mann wert ist. Die Schuld haben nicht wir zu bezahlen, sondern ihr.«</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>15</ID>
-      <DefaultText>„Ihr seid in Orte eingedrungen, derer kein sterblicher Mann wert ist. Eindringlinge und Plünderer seid ihr samt und sonders, und diesen Frevel werden wir rächen.“</DefaultText>
+      <DefaultText>»Ihr seid in Orte eingedrungen, derer kein sterblicher Mann wert ist. Eindringlinge und Plünderer seid ihr samt und sonders, und diesen Frevel werden wir rächen.«</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -85,69 +85,69 @@ Einer von ihnen, baumlang, kräftig und mit einem stattlichen, verknoteten Bart 
     </Entry>
     <Entry>
       <ID>17</ID>
-      <DefaultText>„Vieles kann geschehen, aber das Einzige, dessen du dir sicher sein kannst, ist, dass ich ihn ausbluten lassen werde, wenn du deine Waffen nicht ablegst.“</DefaultText>
+      <DefaultText>»Vieles kann geschehen, aber das Einzige, dessen du dir sicher sein kannst, ist, dass ich ihn ausbluten lassen werde, wenn du deine Waffen nicht ablegst.«</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>19</ID>
-      <DefaultText>„Also, ich sage es nochmal: Leg deine Waffen nieder.“</DefaultText>
+      <DefaultText>»Also, ich sage es nochmal: Leg deine Waffen nieder.«</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>20</ID>
-      <DefaultText>„Vertrau ihnen nicht, sie wollen uns alle töten!“</DefaultText>
+      <DefaultText>»Vertrau ihnen nicht, sie wollen uns alle töten!«</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>21</ID>
-      <DefaultText>„Nur ein Narr greift einen schwächeren Feind an, während ein stärkerer noch steht.“</DefaultText>
+      <DefaultText>»Nur ein Narr greift einen schwächeren Feind an, während ein stärkerer noch steht.«</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>22</ID>
-      <DefaultText>„Deine Tapferkeit ist nur eine Maske. Keiner von euch hat jemals einen wahren Krieger erschlagen.“</DefaultText>
+      <DefaultText>»Deine Tapferkeit ist nur eine Maske. Keiner von euch hat jemals einen wahren Krieger erschlagen.«</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>23</ID>
-      <DefaultText>„Sicher, du kannst ihn umbringen, aber damit besiegelst du deinen eigenen Tod.“</DefaultText>
+      <DefaultText>»Sicher, du kannst ihn umbringen, aber damit besiegelst du deinen eigenen Tod.«</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>24</ID>
-      <DefaultText>„Mach schon, so bring ihn schon um! TU ES!“</DefaultText>
+      <DefaultText>»Mach schon, so bring ihn schon um! TU ES!«</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>25</ID>
-      <DefaultText>Der Mann legt seine Stirn zweifelnd in Falten. „Wir haben viele umgebracht. Eindringlinge, so wie ihr.“</DefaultText>
+      <DefaultText>Der Mann legt seine Stirn zweifelnd in Falten. »Wir haben viele umgebracht. Eindringlinge, so wie ihr.«</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>26</ID>
-      <DefaultText>„Eure Hiebe sind schlampig. Die Wunden auf diesen Leuten sind ineffizient und am Ziel vorbei. Dies ist das Werk von unerprobten, Nachlässigkeit gewöhnten Männern.“ </DefaultText>
+      <DefaultText>»Eure Hiebe sind schlampig. Die Wunden auf diesen Leuten sind ineffizient und am Ziel vorbei. Dies ist das Werk von unerprobten, Nachlässigkeit gewöhnten Männern.« </DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>27</ID>
-      <DefaultText>„Der Mann fletscht die Zähne. Er schaut Heodan an, der hilflos und mit fest zusammengekniffenen Augen des Todesstoß erwartet.“
+      <DefaultText>»Der Mann fletscht die Zähne. Er schaut Heodan an, der hilflos und mit fest zusammengekniffenen Augen des Todesstoß erwartet.«
 
-Der Mann spuckt aus. „Wir werden ja sehen, wessen Tapferkeit eine Maske ist.“</DefaultText>
+Der Mann spuckt aus. »Wir werden ja sehen, wessen Tapferkeit eine Maske ist.«</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>28</ID>
-      <DefaultText>Der Mann lächelt. „Nein, ich glaube, wir bringen ihn einfach um.“</DefaultText>
+      <DefaultText>Der Mann lächelt. »Nein, ich glaube, wir bringen ihn einfach um.«</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>29</ID>
-      <DefaultText>„Jetzt hör mal zu: Um einen Todesstoß anzubringen, musst du doch dein Gewicht in den Schlag hineinlegen, oder?“</DefaultText>
+      <DefaultText>»Jetzt hör mal zu: Um einen Todesstoß anzubringen, musst du doch dein Gewicht in den Schlag hineinlegen, oder?«</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>30</ID>
-      <DefaultText>Der Mann knurrt frustriert. „Dann werden wir uns den hier für später aufheben!“</DefaultText>
+      <DefaultText>Der Mann knurrt frustriert. »Dann werden wir uns den hier für später aufheben!«</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -157,27 +157,27 @@ Der Mann spuckt aus. „Wir werden ja sehen, wessen Tapferkeit eine Maske ist.�
     </Entry>
     <Entry>
       <ID>32</ID>
-      <DefaultText>„Wenn ich dich erreiche, wirst du aus dem Gleichgewicht gebracht und offen für einen tödlichen Schlag sein.“</DefaultText>
+      <DefaultText>»Wenn ich dich erreiche, wirst du aus dem Gleichgewicht gebracht und offen für einen tödlichen Schlag sein.«</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>33</ID>
-      <DefaultText>Der Mann zögert, während er dich mit zusammengekniffenen Augen mustert. „Welche Art von Feigling bittet darum, dass einer der Seinen umgebracht wird?“</DefaultText>
+      <DefaultText>Der Mann zögert, während er dich mit zusammengekniffenen Augen mustert. »Welche Art von Feigling bittet darum, dass einer der Seinen umgebracht wird?«</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>34</ID>
-      <DefaultText>„Die anderen werden mich verteidigen.“</DefaultText>
+      <DefaultText>»Die anderen werden mich verteidigen.«</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>35</ID>
-      <DefaultText>„Nein, eigentlich nicht. Sie sind entweder außer Position oder aber es fehlt ihnen an Stärke und Schnelligkeit, um meine Parade zu durchbrechen. Dein Tod ist dir sicher.“</DefaultText>
+      <DefaultText>»Nein, eigentlich nicht. Sie sind entweder außer Position oder aber es fehlt ihnen an Stärke und Schnelligkeit, um meine Parade zu durchbrechen. Dein Tod ist dir sicher.«</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>36</ID>
-      <DefaultText>„Die Art, die derart außer sich vor Wut ist, dass ihn keine noch so großen Schmerzen davon abhalten werden, dich so barbarisch zu schlagen, dass du selbst im nächsten Leben noch entstellt sein wirst.“</DefaultText>
+      <DefaultText>»Die Art, die derart außer sich vor Wut ist, dass ihn keine noch so großen Schmerzen davon abhalten werden, dich so barbarisch zu schlagen, dass du selbst im nächsten Leben noch entstellt sein wirst.«</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -187,22 +187,22 @@ Der Mann spuckt aus. „Wir werden ja sehen, wessen Tapferkeit eine Maske ist.�
     </Entry>
     <Entry>
       <ID>38</ID>
-      <DefaultText>„Der Tierzahnkette um deinen Hals nach zu schließen, seid ihr Anhänger Galawains. Würdet ihr aufhören, die Ruinen zu beschützen, wenn Galawain es euch befehlen würde?“</DefaultText>
+      <DefaultText>»Der Tierzahnkette um deinen Hals nach zu schließen, seid ihr Anhänger Galawains. Würdet ihr aufhören, die Ruinen zu beschützen, wenn Galawain es euch befehlen würde?«</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>40</ID>
-      <DefaultText>[Die Waffen ablegen.] „Nun gut. Lass ihn gehen.“</DefaultText>
+      <DefaultText>[Die Waffen ablegen.] »Nun gut. Lass ihn gehen.«</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>41</ID>
-      <DefaultText>[Bewaffnet bleiben.] „Wenn ich meine Waffen ablege, sind wir alle tot.“</DefaultText>
+      <DefaultText>[Bewaffnet bleiben.] »Wenn ich meine Waffen ablege, sind wir alle tot.«</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>42</ID>
-      <DefaultText>Der Mann zieht das in Betracht, während er dich von oben bis unten mustert. „Hmmh. Noch nicht.“</DefaultText>
+      <DefaultText>Der Mann zieht das in Betracht, während er dich von oben bis unten mustert. »Hmmh. Noch nicht.«</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -216,44 +216,44 @@ Der Mann nimmt mit erhobener Axt Angriffsstellung gegen dich ein.</DefaultText>
       <ID>44</ID>
       <DefaultText>Er zögert abermals. Er schaut stirnrunzelnd zur Seite, als ob er seine Strategie neu abwägen würde.
 
-Mit einem tiefen Atemzug schaut dir der Mann in die Augen. „Dann also dich zuerst.“</DefaultText>
+Mit einem tiefen Atemzug schaut dir der Mann in die Augen. »Dann also dich zuerst.«</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>45</ID>
-      <DefaultText>„Ihr seid eh schon alle tot. Die Götter verlangen, dass Buße getan wird.“</DefaultText>
+      <DefaultText>»Ihr seid eh schon alle tot. Die Götter verlangen, dass Buße getan wird.«</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>46</ID>
       <DefaultText>Der Mann runzelt die Stirn und tut so, als würde er mit seiner Axt ausziehen. Heodan zuckt zusammen, allein der Schlag bleibt aus. 
 
-Stattdessen legt der Mann interessiert seinen Kopf zur Seite. „Natürlich, aber das würde er nicht, denn wir kämpfen im Auftrag aller Götter.“</DefaultText>
+Stattdessen legt der Mann interessiert seinen Kopf zur Seite. »Natürlich, aber das würde er nicht, denn wir kämpfen im Auftrag aller Götter.«</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>47</ID>
-      <DefaultText>„Woher weißt du das? Weil es sich mit ihren Überzeugungen deckt, oder weil es das ist, was man dir gesagt hat?“</DefaultText>
+      <DefaultText>»Woher weißt du das? Weil es sich mit ihren Überzeugungen deckt, oder weil es das ist, was man dir gesagt hat?«</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>48</ID>
-      <DefaultText>Der Mann starrt dich zornig an. „Mein Volk hat das schon immer gew-“</DefaultText>
+      <DefaultText>Der Mann starrt dich zornig an. »Mein Volk hat das schon immer gew-«</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>50</ID>
-      <DefaultText>„Ich verstehe. Und welches von Galawains Edikten besagt, dass Schwäche und Alter durch Jugend und Stärke ersetzt werden muss? Meinst du wirklich, dass Galawain es befürworten würde, dass ein paar modrige, zerbröselnde Steine die Zeit überdauern, nachdem ihre Erbauer längst zu Staub zerfallen sind?“</DefaultText>
+      <DefaultText>»Ich verstehe. Und welches von Galawains Edikten besagt, dass Schwäche und Alter durch Jugend und Stärke ersetzt werden muss? Meinst du wirklich, dass Galawain es befürworten würde, dass ein paar modrige, zerbröselnde Steine die Zeit überdauern, nachdem ihre Erbauer längst zu Staub zerfallen sind?«</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>51</ID>
-      <DefaultText>Die Nasenflügel des Mannes blähen sich auf, als er zu schimpfen beginnt. „Das würde er n- Das hätte er uns gesagt!“</DefaultText>
+      <DefaultText>Die Nasenflügel des Mannes blähen sich auf, als er zu schimpfen beginnt. »Das würde er n- Das hätte er uns gesagt!«</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>52</ID>
-      <DefaultText>„Das hat er bestimmt, nur … dir persönlich nicht. Aber warum sollte dich das davon abhalten, Unschuldige umzubringen?“</DefaultText>
+      <DefaultText>»Das hat er bestimmt, nur … dir persönlich nicht. Aber warum sollte dich das davon abhalten, Unschuldige umzubringen?«</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -270,12 +270,12 @@ Vor Wut aufheulend stürmt der Mann stattdessen auf dich zu.</DefaultText>
     </Entry>
     <Entry>
       <ID>55</ID>
-      <DefaultText>„Wir tragen hieran keine Schuld. Willst du einfach nicht zur Vernunft kommen?“</DefaultText>
+      <DefaultText>»Wir tragen hieran keine Schuld. Willst du einfach nicht zur Vernunft kommen?«</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>56</ID>
-      <DefaultText>„Wir wissen, dass jemand die Ruine betreten hat. Wir haben die Fußabdrücke gesehen und die Echos gehört. Dafür müsst ihr jetzt vor den Göttern Rechenschaft ablegen.“</DefaultText>
+      <DefaultText>»Wir wissen, dass jemand die Ruine betreten hat. Wir haben die Fußabdrücke gesehen und die Echos gehört. Dafür müsst ihr jetzt vor den Göttern Rechenschaft ablegen.«</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -289,16 +289,16 @@ Der Mann beginnt seinen Sturmangriff mit hoch erhobener Axt.</DefaultText>
       <ID>58</ID>
       <DefaultText>Des Aufstehens nicht mehr fähig, liegt dein Feind vor dir auf dem Rücken. Seine Gefährten liegen still unter den anderen Toten. Er atmet mit keuchenden, unbeständigen Atemzügen. Er schaut nicht dich an, sondern den Himmel über dir.
 
-„Vergib uns.“</DefaultText>
+»Vergib uns.«</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>59</ID>
       <DefaultText>Angesichts seiner erstickten Seufzer kaum hörbar, wirbelt ein flüsternder Windstoß die Luft auf,
 
-und die Augen des Mannes rollen nach hinten, als er sie schließt. „Gut. Gut. Die Götter sind gerecht.“
+und die Augen des Mannes rollen nach hinten, als er sie schließt. »Gut. Gut. Die Götter sind gerecht.«
 
-Ein seltsames Lächeln huscht über sein Gesicht. „Ich bin bereit.“</DefaultText>
+Ein seltsames Lächeln huscht über sein Gesicht. »Ich bin bereit.«</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -315,22 +315,22 @@ Du spürst, wie er dir langsam unter die Haut fährt und bist wie ein Steg, der 
     </Entry>
     <Entry>
       <ID>62</ID>
-      <DefaultText>„Schnell, hinein. RENN!“</DefaultText>
+      <DefaultText>»Schnell, hinein. RENN!«</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>63</ID>
-      <DefaultText>„Sobald du ihn getötet hast, wirst du aus dem Gleichgewicht kommen und meinem Angriff schutzlos ausgeliefert sein.“</DefaultText>
+      <DefaultText>»Sobald du ihn getötet hast, wirst du aus dem Gleichgewicht kommen und meinem Angriff schutzlos ausgeliefert sein.«</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>64</ID>
-      <DefaultText>„Nein, werden sie nicht. Sie werden mich nicht rechtzeitig erreichen, um meinen Angriff aufzuhalten, und dich werden sie auch nicht schützen können.“</DefaultText>
+      <DefaultText>»Nein, werden sie nicht. Sie werden mich nicht rechtzeitig erreichen, um meinen Angriff aufzuhalten, und dich werden sie auch nicht schützen können.«</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>65</ID>
-      <DefaultText>„Ich bin unbewaffnet.“</DefaultText>
+      <DefaultText>»Ich bin unbewaffnet.«</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>

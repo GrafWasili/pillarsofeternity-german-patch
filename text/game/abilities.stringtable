@@ -1396,7 +1396,7 @@
     </Entry>
     <Entry>
       <ID>292</ID>
-      <DefaultText>Zwingt die Seele eines Feindes dazu, Energie zu „verlieren“, wodurch die den Feind umgebende Luft entzündet wird und er mit der Zeit Brandschaden erleidet.</DefaultText>
+      <DefaultText>Zwingt die Seele eines Feindes dazu, Energie zu »verlieren«, wodurch die den Feind umgebende Luft entzündet wird und er mit der Zeit Brandschaden erleidet.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -3181,7 +3181,7 @@
     </Entry>
     <Entry>
       <ID>653</ID>
-      <DefaultText>Der Liebhaber rief zu seiner Geliebten „Ich bin Dein!“</DefaultText>
+      <DefaultText>Der Liebhaber rief zu seiner Geliebten »Ich bin Dein!«</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -3191,7 +3191,7 @@
     </Entry>
     <Entry>
       <ID>655</ID>
-      <DefaultText>Reny Darets Geist sprach „Ich erwische dich, Ben Fidel“</DefaultText>
+      <DefaultText>Reny Darets Geist sprach »Ich erwische dich, Ben Fidel«</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -4166,7 +4166,7 @@
     </Entry>
     <Entry>
       <ID>850</ID>
-      <DefaultText>Gewährt dem Zauberwirker Zugriff auf einen „kostenlosen“ Zauber aus dem Zauberbuch des anvisierten Zauberers, wodurch er einen Zauber der Stufe 3 oder niedriger bewirken kann, der sich derzeit nicht in seinem Zauberbuch befindet.</DefaultText>
+      <DefaultText>Gewährt dem Zauberwirker Zugriff auf einen »kostenlosen« Zauber aus dem Zauberbuch des anvisierten Zauberers, wodurch er einen Zauber der Stufe 3 oder niedriger bewirken kann, der sich derzeit nicht in seinem Zauberbuch befindet.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>

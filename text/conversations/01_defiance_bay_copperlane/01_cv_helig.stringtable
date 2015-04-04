@@ -16,12 +16,12 @@
     </Entry>
     <Entry>
       <ID>12</ID>
-      <DefaultText>„Ich habe nur die Katakomben erkundet.“</DefaultText>
+      <DefaultText>»Ich habe nur die Katakomben erkundet.«</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>13</ID>
-      <DefaultText>„Du bist Helig? Dalton schickt mich, um nach Rowyna zu suchen.“</DefaultText>
+      <DefaultText>»Du bist Helig? Dalton schickt mich, um nach Rowyna zu suchen.«</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -31,167 +31,167 @@
     </Entry>
     <Entry>
       <ID>16</ID>
-      <DefaultText>„Der alte Narr lebt noch immer? Ich hoffe doch, dass er mir nicht immer noch zürnt, wegen dieses … Vorfalls. Das ist nun schon so lange her.“</DefaultText>
+      <DefaultText>»Der alte Narr lebt noch immer? Ich hoffe doch, dass er mir nicht immer noch zürnt, wegen dieses … Vorfalls. Das ist nun schon so lange her.«</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>17</ID>
-      <DefaultText>„Damit solltest du vielleicht lieber zum Arzt gehen.“</DefaultText>
+      <DefaultText>»Damit solltest du vielleicht lieber zum Arzt gehen.«</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>18</ID>
-      <DefaultText>„Was ist mit dir geschehen?“</DefaultText>
+      <DefaultText>»Was ist mit dir geschehen?«</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>21</ID>
-      <DefaultText>„Was, das?“ Er deutet mit einem knorrigen Daumen auf die Wunde. „He. Lange Geschichte.“</DefaultText>
+      <DefaultText>»Was, das?« Er deutet mit einem knorrigen Daumen auf die Wunde. »He. Lange Geschichte.«</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>26</ID>
-      <DefaultText>[Angreifen] „Ich weiß nicht, wer du bist, aber ich schicke dich wieder zurück ins Grab.“</DefaultText>
+      <DefaultText>[Angreifen] »Ich weiß nicht, wer du bist, aber ich schicke dich wieder zurück ins Grab.«</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>38</ID>
-      <DefaultText>„Was kannst du mir über Dalton sagen? “</DefaultText>
+      <DefaultText>»Was kannst du mir über Dalton sagen? «</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>39</ID>
-      <DefaultText>„Nur, dass es ein Wunder - oder ein Witz - der Götter ist, dass er noch lebt.“ Er kratzt verkrustetes Blut aus seinem Bart. „Das Einzige, was er noch mehr liebte, als seinen feschen Leutnant, war seine eigene Legende.“</DefaultText>
+      <DefaultText>»Nur, dass es ein Wunder - oder ein Witz - der Götter ist, dass er noch lebt.« Er kratzt verkrustetes Blut aus seinem Bart. »Das Einzige, was er noch mehr liebte, als seinen feschen Leutnant, war seine eigene Legende.«</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>40</ID>
-      <DefaultText>„Dalton glaubt, dass Rowyna in den Katakomben ist.“</DefaultText>
+      <DefaultText>»Dalton glaubt, dass Rowyna in den Katakomben ist.«</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>41</ID>
-      <DefaultText>„Er sagt, er kann ihre Stimme hören.“</DefaultText>
+      <DefaultText>»Er sagt, er kann ihre Stimme hören.«</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>42</ID>
-      <DefaultText>Er scheint einen weiteren Lachanfall zu unterdrücken. „Oh, das könnte man so sagen. Wenn du mir mein Zauberbuch von Moedred bringst, verrate ich dir das Geheimnis.“</DefaultText>
+      <DefaultText>Er scheint einen weiteren Lachanfall zu unterdrücken. »Oh, das könnte man so sagen. Wenn du mir mein Zauberbuch von Moedred bringst, verrate ich dir das Geheimnis.«</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>49</ID>
-      <DefaultText>„Warum störst du mich?“</DefaultText>
+      <DefaultText>»Warum störst du mich?«</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>50</ID>
-      <DefaultText>Die Gestalt zeigt mit einem knorrigen Finger auf die Tür. „Dann geh. Und danke deinen Göttern, dass ich nicht hungrig bin.“</DefaultText>
+      <DefaultText>Die Gestalt zeigt mit einem knorrigen Finger auf die Tür. »Dann geh. Und danke deinen Göttern, dass ich nicht hungrig bin.«</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>51</ID>
-      <DefaultText>„In Ordnung. Was soll ich für dich tun?“</DefaultText>
+      <DefaultText>»In Ordnung. Was soll ich für dich tun?«</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>52</ID>
-      <DefaultText>[Angreifen.] „Kein Handel. Ich finde Rowyna auch ohne dich.“</DefaultText>
+      <DefaultText>[Angreifen.] »Kein Handel. Ich finde Rowyna auch ohne dich.«</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>53</ID>
-      <DefaultText>Die Wunde nässt, als er lacht. „Oh, da bin ich sicher. Sie wusste noch nie, wann sie den Mund halten muss.“</DefaultText>
+      <DefaultText>Die Wunde nässt, als er lacht. »Oh, da bin ich sicher. Sie wusste noch nie, wann sie den Mund halten muss.«</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>56</ID>
-      <DefaultText>„Dann mach dich auf den Weg zum Sanatorium von Farnheim, worauf wartest du. Bring mir mein Zauberbuch und meine Rache, dann kannst du deine Rowyna haben.“ Er verschluckt sich an einem Kichern.</DefaultText>
+      <DefaultText>»Dann mach dich auf den Weg zum Sanatorium von Farnheim, worauf wartest du. Bring mir mein Zauberbuch und meine Rache, dann kannst du deine Rowyna haben.« Er verschluckt sich an einem Kichern.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>61</ID>
-      <DefaultText>„Ich gehe einen Handel mit dir ein. Ich kann dir helfen, Rowyna zu finden, aber zuerst musst du einen Beseeler namens Moedred besuchen.“</DefaultText>
+      <DefaultText>»Ich gehe einen Handel mit dir ein. Ich kann dir helfen, Rowyna zu finden, aber zuerst musst du einen Beseeler namens Moedred besuchen.«</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>62</ID>
-      <DefaultText>„Moedred ist schon tot.“</DefaultText>
+      <DefaultText>»Moedred ist schon tot.«</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>63</ID>
-      <DefaultText>Helig stößt ein zischendes Geräusch der Frustration aus. „Dieser dreimal verfluchte Quacksalber! Er raubt mir mein Leben UND meine Rache.“ Er beugt sich vornüber und umklammert seinen Bauch. „Das Einzige, worauf ich mich noch mehr gefreut habe als auf … “</DefaultText>
+      <DefaultText>Helig stößt ein zischendes Geräusch der Frustration aus. »Dieser dreimal verfluchte Quacksalber! Er raubt mir mein Leben UND meine Rache.« Er beugt sich vornüber und umklammert seinen Bauch. »Das Einzige, worauf ich mich noch mehr gefreut habe als auf … «</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>66</ID>
-      <DefaultText>„Was sind das für Kreaturen hinter dir?“</DefaultText>
+      <DefaultText>»Was sind das für Kreaturen hinter dir?«</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>67</ID>
-      <DefaultText>„Nur einige persönliche Projekte. Bemitleidenswerte Seelen, die in ihren sterblichen Hüllen feststecken. Ihr Fleisch ist so tot wie das meine, aber ihr Verstand wurde nicht so gut gepflegt.“</DefaultText>
+      <DefaultText>»Nur einige persönliche Projekte. Bemitleidenswerte Seelen, die in ihren sterblichen Hüllen feststecken. Ihr Fleisch ist so tot wie das meine, aber ihr Verstand wurde nicht so gut gepflegt.«</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>68</ID>
-      <DefaultText>„Sie scharen sich um mich wie Lindwürmer um Jungdrachen. Sie sind nicht halb so intelligent, aber … “ Er sieht zu, wie eines der Wesen gegen einen Schreibtisch stolpert. „Sie amüsieren mich.“</DefaultText>
+      <DefaultText>»Sie scharen sich um mich wie Lindwürmer um Jungdrachen. Sie sind nicht halb so intelligent, aber … « Er sieht zu, wie eines der Wesen gegen einen Schreibtisch stolpert. »Sie amüsieren mich.«</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>69</ID>
-      <DefaultText>„Hast du mein Zauberbuch gefunden?“</DefaultText>
+      <DefaultText>»Hast du mein Zauberbuch gefunden?«</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>70</ID>
-      <DefaultText>„Noch nicht.“</DefaultText>
+      <DefaultText>»Noch nicht.«</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>71</ID>
-      <DefaultText>„Du hast mich angelogen.“</DefaultText>
+      <DefaultText>»Du hast mich angelogen.«</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>72</ID>
-      <DefaultText>„Ich habe Moedreds Truhe geöffnet, wenn du das meinst … “</DefaultText>
+      <DefaultText>»Ich habe Moedreds Truhe geöffnet, wenn du das meinst … «</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>73</ID>
-      <DefaultText>„Komm nicht eher wieder, als bis du es hast.“</DefaultText>
+      <DefaultText>»Komm nicht eher wieder, als bis du es hast.«</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>74</ID>
-      <DefaultText>Helig legt sich mit gespieltem Entsetzen eine verfaulende Hand auf die Brust. „Ich habe nicht gelogen … Ich habe nur versäumt, das Wicht-Mädchen in der Truhe zu erwähnen.“</DefaultText>
+      <DefaultText>Helig legt sich mit gespieltem Entsetzen eine verfaulende Hand auf die Brust. »Ich habe nicht gelogen … Ich habe nur versäumt, das Wicht-Mädchen in der Truhe zu erwähnen.«</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>75</ID>
-      <DefaultText>Er legt seine Hände auf den Tisch und beugt sich vor. „Erzähl mir alles. Wie sah sein Gesicht aus? Wie klangen seine Schreie?“ Er schließt die Augen und verschränkt seine knorrigen Hände. „Ich will jedes einzelne Detail genießen.“</DefaultText>
+      <DefaultText>Er legt seine Hände auf den Tisch und beugt sich vor. »Erzähl mir alles. Wie sah sein Gesicht aus? Wie klangen seine Schreie?« Er schließt die Augen und verschränkt seine knorrigen Hände. »Ich will jedes einzelne Detail genießen.«</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>76</ID>
-      <DefaultText>„Sie hat ihn in Stücke gerissen. Ich weiß nicht, was lauter war - seine Schmerzensschreie oder die brechenden Knochen.“</DefaultText>
+      <DefaultText>»Sie hat ihn in Stücke gerissen. Ich weiß nicht, was lauter war - seine Schmerzensschreie oder die brechenden Knochen.«</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>77</ID>
-      <DefaultText>„Das war nicht Teil unserer Abmachung.“</DefaultText>
+      <DefaultText>»Das war nicht Teil unserer Abmachung.«</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>78</ID>
-      <DefaultText>[Angreifen] „Du wirst bezahlen.“</DefaultText>
+      <DefaultText>[Angreifen] »Du wirst bezahlen.«</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>79</ID>
-      <DefaultText>„Wo bleibt dein Sinn für Humor?“ Seine Schultern schütteln sich vor Lachen. „Zumindest hast du mir ein wenig Freude bereitet. Nun denn, deine Belohnung.“
+      <DefaultText>»Wo bleibt dein Sinn für Humor?« Seine Schultern schütteln sich vor Lachen. »Zumindest hast du mir ein wenig Freude bereitet. Nun denn, deine Belohnung.«
 
 Er nimmt sein Amulett ab und gibt es dir.</DefaultText>
       <FemaleText />
@@ -200,213 +200,213 @@ Er nimmt sein Amulett ab und gibt es dir.</DefaultText>
       <ID>80</ID>
       <DefaultText>Helig bricht in Gelächter aus. Er spuckt gallige Flüssigkeit. Er tanzt einen stockenden, ungelenken Tanz, bevor er seine wahnsinnigen Augen wieder auf dich richtet.
 
-„Ich bezweifle, dass ich jemals so viel Spaß hatte, selbst im Leben.“ Er nimmt sein Amulett ab und gibt es dir. „Nun denn, deine Belohnung.“</DefaultText>
+»Ich bezweifle, dass ich jemals so viel Spaß hatte, selbst im Leben.« Er nimmt sein Amulett ab und gibt es dir. »Nun denn, deine Belohnung.«</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>82</ID>
-      <DefaultText>„Du wolltest Rowyna, und hier ist sie. Klein genug, dass du sie einstecken kannst.“ Er lacht wieder. „Sie war eine formidable Kriegerin, und nun ist ihre Seele ein formidabler Talisman. Er hat mir all die Jahre gute Dienste erwiesen, aber ich habe mich weiterentwickelt, zu größeren und besseren Dingen.“ Er deutet auf die Schriften und Runen auf seinem Tisch.</DefaultText>
+      <DefaultText>»Du wolltest Rowyna, und hier ist sie. Klein genug, dass du sie einstecken kannst.« Er lacht wieder. »Sie war eine formidable Kriegerin, und nun ist ihre Seele ein formidabler Talisman. Er hat mir all die Jahre gute Dienste erwiesen, aber ich habe mich weiterentwickelt, zu größeren und besseren Dingen.« Er deutet auf die Schriften und Runen auf seinem Tisch.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>85</ID>
-      <DefaultText>„Stell dir nur vor - noch ein ganzes Leben, um die Mächte und Dimensionen des Todes zu studieren.“</DefaultText>
+      <DefaultText>»Stell dir nur vor - noch ein ganzes Leben, um die Mächte und Dimensionen des Todes zu studieren.«</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>86</ID>
-      <DefaultText>„Ich war einer der ersten Beseeler im Dyrwald. Ich habe auch Nekromantie praktiziert, was Dalton und seine Nordwache-Waldläufer auf meine Fährte gelockt hat.“ Er kichert, ein nasses, blubberndes Geräusch.</DefaultText>
+      <DefaultText>»Ich war einer der ersten Beseeler im Dyrwald. Ich habe auch Nekromantie praktiziert, was Dalton und seine Nordwache-Waldläufer auf meine Fährte gelockt hat.« Er kichert, ein nasses, blubberndes Geräusch.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>87</ID>
-      <DefaultText>„Als die Beseelung an Beliebtheit gewann, kam ich nach Trutzbucht - in der Hoffnung, einen Ort zu finden, an dem meine Forschungen mehr Akzeptanz erfahren. Ich hatte einige Monate in Farnheims Sanatorium gearbeitet, als ich Moedred kennenlernte.“ Er spuckt einen Batzen schwarzes Blut auf den Boden.</DefaultText>
+      <DefaultText>»Als die Beseelung an Beliebtheit gewann, kam ich nach Trutzbucht - in der Hoffnung, einen Ort zu finden, an dem meine Forschungen mehr Akzeptanz erfahren. Ich hatte einige Monate in Farnheims Sanatorium gearbeitet, als ich Moedred kennenlernte.« Er spuckt einen Batzen schwarzes Blut auf den Boden.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>90</ID>
-      <DefaultText>„Sagen wir einfach, dass Moedred und ich nicht miteinander auskommen. Es wurde so übel, dass wir einander täglich drohten, uns gegenseitig umzubringen. Dieser Mistkerl hat seine Drohung wahr gemacht, wie unschwer zu sehen ist.“ Er fährt mit einem spitzen Fingernagel seine nässende Wunde entlang. „Hat mir einen Dolch in die Brust gerammt, während ich schlief, und meine Leiche in die Katakomben geworfen.“</DefaultText>
+      <DefaultText>»Sagen wir einfach, dass Moedred und ich nicht miteinander auskommen. Es wurde so übel, dass wir einander täglich drohten, uns gegenseitig umzubringen. Dieser Mistkerl hat seine Drohung wahr gemacht, wie unschwer zu sehen ist.« Er fährt mit einem spitzen Fingernagel seine nässende Wunde entlang. »Hat mir einen Dolch in die Brust gerammt, während ich schlief, und meine Leiche in die Katakomben geworfen.«</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>91</ID>
-      <DefaultText>„Du siehst gut aus. Für einen Toten.“</DefaultText>
+      <DefaultText>»Du siehst gut aus. Für einen Toten.«</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>92</ID>
-      <DefaultText>„Du hast dich mit der Kunst der Beseelung selbst gerettet?“</DefaultText>
+      <DefaultText>»Du hast dich mit der Kunst der Beseelung selbst gerettet?«</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>93</ID>
-      <DefaultText>„Ich hatte meinen Verstand und meine Erinnerungen durch engwithanische Magie und einige zeitige Vorkehrungen konserviert.“
+      <DefaultText>»Ich hatte meinen Verstand und meine Erinnerungen durch engwithanische Magie und einige zeitige Vorkehrungen konserviert.«
 
-Er blickt auf seine faulenden Hände. „Doch nun ist meine Seele an diese verfaulende Hülle gebunden.“</DefaultText>
+Er blickt auf seine faulenden Hände. »Doch nun ist meine Seele an diese verfaulende Hülle gebunden.«</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>94</ID>
-      <DefaultText>Seine krallenartigen Hände ballen sich zu Fäusten. „Moedred hat mir ein Leben gestohlen und mich mit diesem zerstörten Leichnam zurückgelassen. Und diesem Verlangen.“ Er umklammert seinen Bauch und blickt dich gierig an, allerdings nur für einen Augenblick.</DefaultText>
+      <DefaultText>Seine krallenartigen Hände ballen sich zu Fäusten. »Moedred hat mir ein Leben gestohlen und mich mit diesem zerstörten Leichnam zurückgelassen. Und diesem Verlangen.« Er umklammert seinen Bauch und blickt dich gierig an, allerdings nur für einen Augenblick.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>95</ID>
-      <DefaultText>„Im Bezirk Farnheim. Der Großteil der Beseelungsforschung in der Stadt beginnt und endet dort. Einige der anderen Beseeler fühlten sich … unwohl wegen meiner Experimente. Aber sie trugen Früchte, und man ließ mich ungestört arbeiten. Alle außer Moedred.“</DefaultText>
+      <DefaultText>»Im Bezirk Farnheim. Der Großteil der Beseelungsforschung in der Stadt beginnt und endet dort. Einige der anderen Beseeler fühlten sich … unwohl wegen meiner Experimente. Aber sie trugen Früchte, und man ließ mich ungestört arbeiten. Alle außer Moedred.«</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>96</ID>
-      <DefaultText>„Dennoch, es band meine Seele lediglich an diese verfaulende Hülle. Kein Vergleich mit dem Leben, das mir gestohlen wurde.“ Helig stößt ein rasselndes Seufzen aus. 
+      <DefaultText>»Dennoch, es band meine Seele lediglich an diese verfaulende Hülle. Kein Vergleich mit dem Leben, das mir gestohlen wurde.« Helig stößt ein rasselndes Seufzen aus. 
 
-„Und doch siehst du, was ein wenig engwithanische Magie ermöglicht. Mein Verstand ist mein eigener, meine Erinnerungen sind frisch, meine Arbeit kann weitergehen. Und Moedred … “</DefaultText>
+»Und doch siehst du, was ein wenig engwithanische Magie ermöglicht. Mein Verstand ist mein eigener, meine Erinnerungen sind frisch, meine Arbeit kann weitergehen. Und Moedred … «</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>97</ID>
-      <DefaultText>„Wie hast du das Zauberbuch verloren?“</DefaultText>
+      <DefaultText>»Wie hast du das Zauberbuch verloren?«</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>99</ID>
-      <DefaultText>„Nun geht es wie so viele Dinge auf die nächste Generation über. Nutze es, wie du möchtest, oder gib es diesem jämmerlichen alten Narr Dalton.“
+      <DefaultText>»Nun geht es wie so viele Dinge auf die nächste Generation über. Nutze es, wie du möchtest, oder gib es diesem jämmerlichen alten Narr Dalton.«
 
-Er zuckt mit seinen knochigen Schultern und widmet sich wieder seiner Arbeit. „Wie du dich auch entscheidest, unsere Abmachung ist beendet.“</DefaultText>
+Er zuckt mit seinen knochigen Schultern und widmet sich wieder seiner Arbeit. »Wie du dich auch entscheidest, unsere Abmachung ist beendet.«</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>101</ID>
-      <DefaultText>„Moedred hat mir von deinen Experimenten berichtet. Ich kann nicht zulassen, dass du deine ‚Forschungen‘ fortsetzt.“</DefaultText>
+      <DefaultText>»Moedred hat mir von deinen Experimenten berichtet. Ich kann nicht zulassen, dass du deine ›Forschungen‹ fortsetzt.«</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>102</ID>
-      <DefaultText>„Leb wohl.“</DefaultText>
+      <DefaultText>»Leb wohl.«</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>105</ID>
-      <DefaultText>„Er sagte, du hättest Rowyna und die übrigen Nordwachen-Waldläufer getötet.“</DefaultText>
+      <DefaultText>»Er sagte, du hättest Rowyna und die übrigen Nordwachen-Waldläufer getötet.«</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>106</ID>
-      <DefaultText>„Hat er auch erwähnt, dass sie mich gejagt haben wie einen tollwütigen Hund?“ Er rückt seine mottenzerfressenen Roben zurecht. „Ich wollte nur meine Studien fortsetzen. Die Beseelung war damals noch nicht so akzeptiert wie heute. Und Nekromanten waren noch nie sonderlich beliebt.“</DefaultText>
+      <DefaultText>»Hat er auch erwähnt, dass sie mich gejagt haben wie einen tollwütigen Hund?« Er rückt seine mottenzerfressenen Roben zurecht. »Ich wollte nur meine Studien fortsetzen. Die Beseelung war damals noch nicht so akzeptiert wie heute. Und Nekromanten waren noch nie sonderlich beliebt.«</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>107</ID>
-      <DefaultText>„Aber sie sind jetzt Leichen, genau wie ich. Das alles liegt doch nun wirklich hinter uns.“</DefaultText>
+      <DefaultText>»Aber sie sind jetzt Leichen, genau wie ich. Das alles liegt doch nun wirklich hinter uns.«</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>108</ID>
-      <DefaultText>„Weißt du, wo Rowyna ist?“</DefaultText>
+      <DefaultText>»Weißt du, wo Rowyna ist?«</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>109</ID>
-      <DefaultText>[Angreifen] „Du wirst für diese Tode bezahlen.“</DefaultText>
+      <DefaultText>[Angreifen] »Du wirst für diese Tode bezahlen.«</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>112</ID>
-      <DefaultText>„Moedred bewahrt alles, was ihm wertvoll ist, in einer Truhe in seinem Laboratorium auf. Genau, wie er mein Zauberbuch gestohlen hat … “ Er reicht dir mit einer klauenartigen Hand einen Schlüssel.</DefaultText>
+      <DefaultText>»Moedred bewahrt alles, was ihm wertvoll ist, in einer Truhe in seinem Laboratorium auf. Genau, wie er mein Zauberbuch gestohlen hat … « Er reicht dir mit einer klauenartigen Hand einen Schlüssel.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>113</ID>
-      <DefaultText>Helig stößt ein zischendes Geräusch der Frustration aus. „Du klingst genau wie er. Keinerlei Ehrgeiz, nur auf sein geliebtes Projekt und seine selbstgerechten Vorstellungen von Ethik fixiert.“</DefaultText>
+      <DefaultText>Helig stößt ein zischendes Geräusch der Frustration aus. »Du klingst genau wie er. Keinerlei Ehrgeiz, nur auf sein geliebtes Projekt und seine selbstgerechten Vorstellungen von Ethik fixiert.«</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>123</ID>
-      <DefaultText>„Oh, nein“, Helig winkt mit einer halb verfaulten Hand. „Das ist Magie. Und es waren sehr viel … rechtzeitige Vorkehrungen nötig, oh ja.“</DefaultText>
+      <DefaultText>»Oh, nein«, Helig winkt mit einer halb verfaulten Hand. »Das ist Magie. Und es waren sehr viel … rechtzeitige Vorkehrungen nötig, oh ja.«</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>126</ID>
-      <DefaultText>„Ich habe mit Meodred gesprochen. Er hat dein Zauberbuch nicht.“</DefaultText>
+      <DefaultText>»Ich habe mit Meodred gesprochen. Er hat dein Zauberbuch nicht.«</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>127</ID>
-      <DefaultText>„Würde man sie Leuten wie Moedred überlassen, wäre die Beseelung nicht viel mehr als das Sortieren von engwithanischen Töpfereien. Wir wären so hinter der Zeit her wie diese Hüttenbewohner.“ Er deutet auf den Tisch vor sich. „Jeder will die Unsterblichkeit, aber niemand will wissen, was sie kostet.“</DefaultText>
+      <DefaultText>»Würde man sie Leuten wie Moedred überlassen, wäre die Beseelung nicht viel mehr als das Sortieren von engwithanischen Töpfereien. Wir wären so hinter der Zeit her wie diese Hüttenbewohner.« Er deutet auf den Tisch vor sich. »Jeder will die Unsterblichkeit, aber niemand will wissen, was sie kostet.«</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>128</ID>
-      <DefaultText>Ein Zittern schüttelt ihn. Er greift sich an den Magen. „Oh ja, sie kostet. Vielleicht kannst du doch noch einen Zweck erfüllen.“</DefaultText>
+      <DefaultText>Ein Zittern schüttelt ihn. Er greift sich an den Magen. »Oh ja, sie kostet. Vielleicht kannst du doch noch einen Zweck erfüllen.«</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>129</ID>
-      <DefaultText>„Ich habe Moedred für dich getötet.“</DefaultText>
+      <DefaultText>»Ich habe Moedred für dich getötet.«</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>130</ID>
-      <DefaultText>Heligs Stirn runzelt sich. „Du hast was?“ Er rauft sich mit krummen Fingern den Bart. „Er sollte leiden, du Narr. Moedred hat mir vielleicht mein Leben geraubt, aber du hast mir meine Befriedigung geraubt.“</DefaultText>
+      <DefaultText>Heligs Stirn runzelt sich. »Du hast was?« Er rauft sich mit krummen Fingern den Bart. »Er sollte leiden, du Narr. Moedred hat mir vielleicht mein Leben geraubt, aber du hast mir meine Befriedigung geraubt.«</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>134</ID>
-      <DefaultText>Helig stößt ein zischendes Geräusch der Frustration aus. „Ein Witz ist nicht mehr lustig, wenn man ihn erklären muss, oder?“</DefaultText>
+      <DefaultText>Helig stößt ein zischendes Geräusch der Frustration aus. »Ein Witz ist nicht mehr lustig, wenn man ihn erklären muss, oder?«</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>137</ID>
-      <DefaultText>Er reißt sich einige Haare aus dem Bart. „Wenn du meinen Durst nach Rache nicht stillen kannst, musst du einem anderen Zweck dienen.“ Eine vertrocknete und verkümmerte Zunge huscht über seine spröden Lippen. „Ich fürchte, gemeinsam mit mir wurde auch ein schlimmer Hunger geweckt.“</DefaultText>
+      <DefaultText>Er reißt sich einige Haare aus dem Bart. »Wenn du meinen Durst nach Rache nicht stillen kannst, musst du einem anderen Zweck dienen.« Eine vertrocknete und verkümmerte Zunge huscht über seine spröden Lippen. »Ich fürchte, gemeinsam mit mir wurde auch ein schlimmer Hunger geweckt.«</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>138</ID>
-      <DefaultText>Eine verkümmerte Zunge leckt seine spröden Lippen. „Natürlich ist da noch immer dieser … andere Hunger. Du bist wunderbar geeignet, denke ich.“ Er krümmt seine Finger und stürzt auf dich zu.</DefaultText>
+      <DefaultText>Eine verkümmerte Zunge leckt seine spröden Lippen. »Natürlich ist da noch immer dieser … andere Hunger. Du bist wunderbar geeignet, denke ich.« Er krümmt seine Finger und stürzt auf dich zu.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>139</ID>
-      <DefaultText>„Wenn Moedred dich getötet hat, wie können wir dann diese Unterhaltung führen?“</DefaultText>
+      <DefaultText>»Wenn Moedred dich getötet hat, wie können wir dann diese Unterhaltung führen?«</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>140</ID>
-      <DefaultText>„Du stehst vor mir.“</DefaultText>
+      <DefaultText>»Du stehst vor mir.«</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>141</ID>
-      <DefaultText>„Wenn das alles war, dann auf Wiedersehen.“</DefaultText>
+      <DefaultText>»Wenn das alles war, dann auf Wiedersehen.«</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>142</ID>
-      <DefaultText>„Was tust du hier unten?“</DefaultText>
+      <DefaultText>»Was tust du hier unten?«</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>143</ID>
-      <DefaultText>„Forschung. Eine bunte Mischung aus Beseelung und Nekromantie. Hier habe ich Ruhe und Frieden und einen … großzügigen Vorrat an Versuchspersonen.“</DefaultText>
+      <DefaultText>»Forschung. Eine bunte Mischung aus Beseelung und Nekromantie. Hier habe ich Ruhe und Frieden und einen … großzügigen Vorrat an Versuchspersonen.«</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>144</ID>
-      <DefaultText>„Und wenn ich dir das Geheimnis einfach aus dem toten Leib prügle?“</DefaultText>
+      <DefaultText>»Und wenn ich dir das Geheimnis einfach aus dem toten Leib prügle?«</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>145</ID>
-      <DefaultText>Er schmunzelt. „Du könntest es versuchen, aber dann würdest du sterben.“</DefaultText>
+      <DefaultText>Er schmunzelt. »Du könntest es versuchen, aber dann würdest du sterben.«</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>146</ID>
-      <DefaultText>„Also, haben wir eine Abmachung? Mein Zauberbuch gegen Rowyna?“</DefaultText>
+      <DefaultText>»Also, haben wir eine Abmachung? Mein Zauberbuch gegen Rowyna?«</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>147</ID>
-      <DefaultText>„Ich habe es nicht verloren, es wurde mir gestohlen.“</DefaultText>
+      <DefaultText>»Ich habe es nicht verloren, es wurde mir gestohlen.«</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -416,52 +416,52 @@ Er zuckt mit seinen knochigen Schultern und widmet sich wieder seiner Arbeit. �
     </Entry>
     <Entry>
       <ID>149</ID>
-      <DefaultText>Helig stößt ein zischendes Geräusch der Frustration aus. „Ein Witz ist nicht mehr lustig, wenn man ihn erklären muss, oder? Ich war mir sicher, dass gerade du einen kleinen Streich zu schätzen wissen würdest.“</DefaultText>
+      <DefaultText>Helig stößt ein zischendes Geräusch der Frustration aus. »Ein Witz ist nicht mehr lustig, wenn man ihn erklären muss, oder? Ich war mir sicher, dass gerade du einen kleinen Streich zu schätzen wissen würdest.«</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>150</ID>
-      <DefaultText>„Und gerade du nimmst Anstoß?“ Helig legt sich mit gespieltem Entsetzen eine verfaulende Hand auf die Brust. „Ich habe nicht gelogen … Ich habe nur versäumt, das Wicht-Mädchen in der Truhe zu erwähnen.“</DefaultText>
+      <DefaultText>»Und gerade du nimmst Anstoß?« Helig legt sich mit gespieltem Entsetzen eine verfaulende Hand auf die Brust. »Ich habe nicht gelogen … Ich habe nur versäumt, das Wicht-Mädchen in der Truhe zu erwähnen.«</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>151</ID>
-      <DefaultText>„Ich wusste, du hast Sinn für Humor.“
+      <DefaultText>»Ich wusste, du hast Sinn für Humor.«
 
 Helig bricht in Gelächter aus. Er spuckt gallige Flüssigkeit. Er tanzt einen stockenden, ungelenken Tanz, bevor er seine wahnsinnigen Augen wieder auf dich richtet.
 
-„Ich bezweifle, dass ich jemals so viel Spaß hatte, selbst im Leben.“ Er nimmt sein Amulett ab und gibt es dir. „Nun denn, deine Belohnung.“</DefaultText>
+»Ich bezweifle, dass ich jemals so viel Spaß hatte, selbst im Leben.« Er nimmt sein Amulett ab und gibt es dir. »Nun denn, deine Belohnung.«</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>152</ID>
       <DefaultText>Helig bricht in Gelächter aus. Er spuckt gallige Flüssigkeit. Er tanzt einen stockenden, ungelenken Tanz, bevor er seine wahnsinnigen Augen wieder auf dich richtet.
 
-„Ich würde sagen, du hattest daran fast ebenso viel Freude wie ich.“ Er nimmt sein Amulett ab und gibt es dir. „Aber nun … deine wahre Belohnung.“</DefaultText>
+»Ich würde sagen, du hattest daran fast ebenso viel Freude wie ich.« Er nimmt sein Amulett ab und gibt es dir. »Aber nun … deine wahre Belohnung.«</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>153</ID>
-      <DefaultText>„Ich dachte, du hättest Sinn für Humor.“ Seine Schultern schütteln sich vor Lachen. „Zumindest hast du mir ein wenig Freude bereitet. Nun denn, deine Belohnung.“
+      <DefaultText>»Ich dachte, du hättest Sinn für Humor.« Seine Schultern schütteln sich vor Lachen. »Zumindest hast du mir ein wenig Freude bereitet. Nun denn, deine Belohnung.«
 
 Er nimmt sein Amulett ab und gibt es dir.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>154</ID>
-      <DefaultText>„Wo bleibt dein Sinn für Humor? Soll ich dir abkaufen, dass dich ein wenig Hinterhältigkeit so entsetzt?“ Seine Schultern schütteln sich vor Lachen. „Zumindest hast du mir ein wenig Freude bereitet. Nun denn, deine Belohnung.“
+      <DefaultText>»Wo bleibt dein Sinn für Humor? Soll ich dir abkaufen, dass dich ein wenig Hinterhältigkeit so entsetzt?« Seine Schultern schütteln sich vor Lachen. »Zumindest hast du mir ein wenig Freude bereitet. Nun denn, deine Belohnung.«
 
 Er nimmt sein Amulett ab und gibt es dir.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>156</ID>
-      <DefaultText>Helig stößt ein zischendes Geräusch der Frustration aus. „Du bist noch selbstgerechter als er.“</DefaultText>
+      <DefaultText>Helig stößt ein zischendes Geräusch der Frustration aus. »Du bist noch selbstgerechter als er.«</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>157</ID>
-      <DefaultText>„Habe ich deine delikaten Empfindlichkeiten beleidigt?“ Helig legt sich mit gespieltem Entsetzen eine verfaulende Hand auf die Brust. „Ich habe nicht gelogen … Ich habe nur versäumt, das Wicht-Mädchen in der Truhe zu erwähnen.“</DefaultText>
+      <DefaultText>»Habe ich deine delikaten Empfindlichkeiten beleidigt?« Helig legt sich mit gespieltem Entsetzen eine verfaulende Hand auf die Brust. »Ich habe nicht gelogen … Ich habe nur versäumt, das Wicht-Mädchen in der Truhe zu erwähnen.«</DefaultText>
       <FemaleText />
     </Entry>
   </Entries>

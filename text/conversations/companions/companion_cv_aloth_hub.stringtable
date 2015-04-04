@@ -6,292 +6,292 @@
   <Entries>
     <Entry>
       <ID>1</ID>
-      <DefaultText>Aloth sieht dich mit ruhiger Aufmerksamkeit an. „Wie kann ich zu Diensten sein?“</DefaultText>
+      <DefaultText>Aloth sieht dich mit ruhiger Aufmerksamkeit an. »Wie kann ich zu Diensten sein?«</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>2</ID>
-      <DefaultText>„Erzähl mir von Aedyr.“</DefaultText>
+      <DefaultText>»Erzähl mir von Aedyr.«</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>3</ID>
-      <DefaultText>Er blickt dich überrascht an. „Hast du dein Heimatland schon vergessen? Wundert mich nicht - die Bewandtnisse hier haben dich sicherlich stets sehr beschäftigt.“</DefaultText>
+      <DefaultText>Er blickt dich überrascht an. »Hast du dein Heimatland schon vergessen? Wundert mich nicht - die Bewandtnisse hier haben dich sicherlich stets sehr beschäftigt.«</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>4</ID>
-      <DefaultText>„Ich bin jetzt schon seit mehr als einem Jahr fort, aber ich vermute, die Wälder und Felder von Aedyr werde ich für immer als Heimat ansehen. Hinter uns liegend Tausende Jahre von Geschichte und Brauchtum, und damit geht ein gewisses Gefühl von Würde und Verantwortung einher.“
+      <DefaultText>»Ich bin jetzt schon seit mehr als einem Jahr fort, aber ich vermute, die Wälder und Felder von Aedyr werde ich für immer als Heimat ansehen. Hinter uns liegend Tausende Jahre von Geschichte und Brauchtum, und damit geht ein gewisses Gefühl von Würde und Verantwortung einher.«
 
-Er runzelt die Stirn. „Natürlich gibt es auch Altlasten. Unsere imperiale Vergangenheit ist in der Erinnerung vieler immer noch frisch, wie du hier gemerkt haben könntest.“</DefaultText>
+Er runzelt die Stirn. »Natürlich gibt es auch Altlasten. Unsere imperiale Vergangenheit ist in der Erinnerung vieler immer noch frisch, wie du hier gemerkt haben könntest.«</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>5</ID>
-      <DefaultText>„Ich würde gerne mehr über Iselmyr erfahren.“</DefaultText>
+      <DefaultText>»Ich würde gerne mehr über Iselmyr erfahren.«</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>6</ID>
-      <DefaultText>Er hebt eine Augenbraue. „Nämlich?“</DefaultText>
+      <DefaultText>Er hebt eine Augenbraue. »Nämlich?«</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>7</ID>
-      <DefaultText>„Könnte ich direkt mit ihr sprechen?“</DefaultText>
+      <DefaultText>»Könnte ich direkt mit ihr sprechen?«</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>8</ID>
-      <DefaultText>„Wann wurde sie erweckt?“</DefaultText>
+      <DefaultText>»Wann wurde sie erweckt?«</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>9</ID>
-      <DefaultText>„Du sagtest, du hättest vor langer Zeit gelernt, sie zu verbergen.“</DefaultText>
+      <DefaultText>»Du sagtest, du hättest vor langer Zeit gelernt, sie zu verbergen.«</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>10</ID>
-      <DefaultText>„Meine Mutter trug mir auf, sie geheim zu halten, nachdem sie das erste Mal zum Vorschein gekommen war. Sie fürchtete, dass mich das Wissen um meine Erweckungen zu einem Ausgestoßenen machen würde.“ 
+      <DefaultText>»Meine Mutter trug mir auf, sie geheim zu halten, nachdem sie das erste Mal zum Vorschein gekommen war. Sie fürchtete, dass mich das Wissen um meine Erweckungen zu einem Ausgestoßenen machen würde.« 
 
-„Obwohl sich Iselmyr gegen meinen Vater als nützlich erwies, so vertraute ich doch dem Rat meiner Mutter. Mittlerweile sehe ich auch die Weisheit dahinter. Maerwald ist ein Extrembeispiel, aber auch eines, mit dem ich mich Jahr für Jahr mehr identifizieren kann.“</DefaultText>
+»Obwohl sich Iselmyr gegen meinen Vater als nützlich erwies, so vertraute ich doch dem Rat meiner Mutter. Mittlerweile sehe ich auch die Weisheit dahinter. Maerwald ist ein Extrembeispiel, aber auch eines, mit dem ich mich Jahr für Jahr mehr identifizieren kann.«</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>11</ID>
-      <DefaultText>„Mein Vater war ein strenger Mann. Von seinem einzigen Kind erwartete er nur das Beste, und Scheitern tolerierte er überhaupt nicht.“ Sein Gesicht wird verhärmt. 
+      <DefaultText>»Mein Vater war ein strenger Mann. Von seinem einzigen Kind erwartete er nur das Beste, und Scheitern tolerierte er überhaupt nicht.« Sein Gesicht wird verhärmt. 
 
-„Manchmal konnte er ziemlich … unerbittlich sein. Vor allem, nachdem er getrunken hatte. Bei einem dieser Anlässe manifestierte sich Iselmyr. Ehrlich gesagt erinnere ich mich nicht mehr an die Einzelheiten. Ich weiß nur noch, dass er danach vorsichtiger mit mir war.“</DefaultText>
+»Manchmal konnte er ziemlich … unerbittlich sein. Vor allem, nachdem er getrunken hatte. Bei einem dieser Anlässe manifestierte sich Iselmyr. Ehrlich gesagt erinnere ich mich nicht mehr an die Einzelheiten. Ich weiß nur noch, dass er danach vorsichtiger mit mir war.«</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>12</ID>
-      <DefaultText>„Ist es schwer gewesen, sich an das Leben im Dyrwald anzupassen?“</DefaultText>
+      <DefaultText>»Ist es schwer gewesen, sich an das Leben im Dyrwald anzupassen?«</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>13</ID>
-      <DefaultText>„Die Leute hier sind ungezwungen … und heißblütig.“ Sein Mund verzerrt sich zu einem schiefen Grinsen. „Beleidigungen schenken sie mehr Aufmerksamkeit als der Pflicht. Solange man aber Provokationen vermeidet, kommt man mit ihnen ganz gut klar.“ 
+      <DefaultText>»Die Leute hier sind ungezwungen … und heißblütig.« Sein Mund verzerrt sich zu einem schiefen Grinsen. »Beleidigungen schenken sie mehr Aufmerksamkeit als der Pflicht. Solange man aber Provokationen vermeidet, kommt man mit ihnen ganz gut klar.« 
 
-Er legt die Fingerkuppen zusammen. „Ich habe mich jedenfalls gut genug angepasst, um meine Gedanken für mich selbst zu behalten.“</DefaultText>
+Er legt die Fingerkuppen zusammen. »Ich habe mich jedenfalls gut genug angepasst, um meine Gedanken für mich selbst zu behalten.«</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>15</ID>
-      <DefaultText>„Wie lange warst du in Goldtal?“</DefaultText>
+      <DefaultText>»Wie lange warst du in Goldtal?«</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>16</ID>
-      <DefaultText>Er zuckt mit den Achsel und zupft am Saum seines Ärmels. „Nicht viel länger als du. Wie du gesehen hast, war es kaum die Oase, als die es angepriesen wurde.“</DefaultText>
+      <DefaultText>Er zuckt mit den Achsel und zupft am Saum seines Ärmels. »Nicht viel länger als du. Wie du gesehen hast, war es kaum die Oase, als die es angepriesen wurde.«</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>18</ID>
-      <DefaultText>„So. Jetzt verstehst du Iselmyr ein bisschen besser.“</DefaultText>
+      <DefaultText>»So. Jetzt verstehst du Iselmyr ein bisschen besser.«</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>19</ID>
-      <DefaultText>Er rümpft seine Nase. „Dank dieser Beseelerin bestimmt nicht. Meine Galle? Schwarzer Gallensaft? Hör bloß auf.“</DefaultText>
+      <DefaultText>Er rümpft seine Nase. »Dank dieser Beseelerin bestimmt nicht. Meine Galle? Schwarzer Gallensaft? Hör bloß auf.«</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>20</ID>
-      <DefaultText>„Bellaseges Methoden waren fehlerhaft, aber du hast doch trotzdem etwas gelernt, oder?“</DefaultText>
+      <DefaultText>»Bellaseges Methoden waren fehlerhaft, aber du hast doch trotzdem etwas gelernt, oder?«</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>21</ID>
-      <DefaultText>„Leuten wie ihr sollte man nicht gestatten, Beseelung zu betreiben.“</DefaultText>
+      <DefaultText>»Leuten wie ihr sollte man nicht gestatten, Beseelung zu betreiben.«</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>22</ID>
-      <DefaultText>„Aber das ist das ganze Problem mit diesem Bereich: Alles basiert auf Spekulation und Experimenten. Nichts hindert ein paar Quacksalber daran, von der Ignoranz der Massen zu profitieren. Wenn man den Leuten einen glänzenden Apparat in den Händen eines ‚Experten‘ zeigt, glauben sie alles.“</DefaultText>
+      <DefaultText>»Aber das ist das ganze Problem mit diesem Bereich: Alles basiert auf Spekulation und Experimenten. Nichts hindert ein paar Quacksalber daran, von der Ignoranz der Massen zu profitieren. Wenn man den Leuten einen glänzenden Apparat in den Händen eines ›Experten‹ zeigt, glauben sie alles.«</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>23</ID>
-      <DefaultText>„Nicht unbedingt. Die meisten Leute haben mehr Verstand.“</DefaultText>
+      <DefaultText>»Nicht unbedingt. Die meisten Leute haben mehr Verstand.«</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>24</ID>
-      <DefaultText>„Das stimmt. Die Leute lassen sich viel zu leicht verleiten.“</DefaultText>
+      <DefaultText>»Das stimmt. Die Leute lassen sich viel zu leicht verleiten.«</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>25</ID>
-      <DefaultText>„Vielleicht. Die Beseelung hat ihre Nutzen, aber es ist schwer zu sagen, ob sie die Gefahren überwiegen.“</DefaultText>
+      <DefaultText>»Vielleicht. Die Beseelung hat ihre Nutzen, aber es ist schwer zu sagen, ob sie die Gefahren überwiegen.«</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>26</ID>
-      <DefaultText>„Warum wolltest du Bellaseges Notizen an dich nehmen?“</DefaultText>
+      <DefaultText>»Warum wolltest du Bellaseges Notizen an dich nehmen?«</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>27</ID>
-      <DefaultText>Er wirft dir einen Seitenblick zu. „Wie ich schon sagte, ihre Neugier gefiel mir gar nicht.“</DefaultText>
+      <DefaultText>Er wirft dir einen Seitenblick zu. »Wie ich schon sagte, ihre Neugier gefiel mir gar nicht.«</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>28</ID>
-      <DefaultText>„Über deine Eltern … “</DefaultText>
+      <DefaultText>»Über deine Eltern … «</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>29</ID>
-      <DefaultText>„Nur weil wir beide eine Spur gesunden Verstands in uns haben. Aber die Durchschnittsperson? Zeig ihnen einen glänzenden Apparat in den Händen eines ‚Experten‘ zeigt und sie werden alles glauben.“</DefaultText>
+      <DefaultText>»Nur weil wir beide eine Spur gesunden Verstands in uns haben. Aber die Durchschnittsperson? Zeig ihnen einen glänzenden Apparat in den Händen eines ›Experten‹ zeigt und sie werden alles glauben.«</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>30</ID>
-      <DefaultText>„Ich weiß es nicht. Ohne deine Wut währst du wohl eine angenehmere Person.“</DefaultText>
+      <DefaultText>»Ich weiß es nicht. Ohne deine Wut währst du wohl eine angenehmere Person.«</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>31</ID>
-      <DefaultText>Er hebt eine Augenbraue. „Wie kannst du immer noch glauben, nach all dem, was du gesehen hast? Das muss schön sein.“</DefaultText>
+      <DefaultText>Er hebt eine Augenbraue. »Wie kannst du immer noch glauben, nach all dem, was du gesehen hast? Das muss schön sein.«</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>32</ID>
-      <DefaultText>„Ja. Die Leute brauchen etwas, an das sie glauben können. Jemanden, dem sie folgen können. Und die Gefahr, ein paar Beseelern zu folgen, liegt darin, dass sie selbst nicht wissen, wohin die Reise geht.“</DefaultText>
+      <DefaultText>»Ja. Die Leute brauchen etwas, an das sie glauben können. Jemanden, dem sie folgen können. Und die Gefahr, ein paar Beseelern zu folgen, liegt darin, dass sie selbst nicht wissen, wohin die Reise geht.«</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>33</ID>
-      <DefaultText>„Es ist zu dezentral organisiert. Es gibt niemand, der die Praktiken überprüfen würde, keine einheitlichen Prinzipien oder Richtlinien.“</DefaultText>
+      <DefaultText>»Es ist zu dezentral organisiert. Es gibt niemand, der die Praktiken überprüfen würde, keine einheitlichen Prinzipien oder Richtlinien.«</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>34</ID>
-      <DefaultText>„So viel Macht in die Hände einer einzelnen Autorität zu legen, ist jedenfalls keine bessere Idee.“</DefaultText>
+      <DefaultText>»So viel Macht in die Hände einer einzelnen Autorität zu legen, ist jedenfalls keine bessere Idee.«</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>35</ID>
-      <DefaultText>„Ja, man braucht jemanden, der die Praktiken reguliert.“</DefaultText>
+      <DefaultText>»Ja, man braucht jemanden, der die Praktiken reguliert.«</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>36</ID>
-      <DefaultText>Er hebt eine Augenbraue. „Das ist keine perfekte Lösung, aber immer noch besser als das Chaos, das wir jetzt haben.“</DefaultText>
+      <DefaultText>Er hebt eine Augenbraue. »Das ist keine perfekte Lösung, aber immer noch besser als das Chaos, das wir jetzt haben.«</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>37</ID>
-      <DefaultText>„Ganz recht. Von sich aus werden es die Praktizierenden nicht tun.“</DefaultText>
+      <DefaultText>»Ganz recht. Von sich aus werden es die Praktizierenden nicht tun.«</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>38</ID>
-      <DefaultText>Er lächelt höhnisch. „Ach, wie lustig. Wir hätten dich mal von ihr anschauen lassen sollen. Ich frage mich, was sie dann gerne entfernen würde.“</DefaultText>
+      <DefaultText>Er lächelt höhnisch. »Ach, wie lustig. Wir hätten dich mal von ihr anschauen lassen sollen. Ich frage mich, was sie dann gerne entfernen würde.«</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>39</ID>
-      <DefaultText>Er sieht dich vorsichtig an. „Ja?“</DefaultText>
+      <DefaultText>Er sieht dich vorsichtig an. »Ja?«</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>40</ID>
-      <DefaultText>„Warum war deine Mutter so oft nicht zu Hause?“</DefaultText>
+      <DefaultText>»Warum war deine Mutter so oft nicht zu Hause?«</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>41</ID>
-      <DefaultText>„Das klingt danach, als hätte dein Vater ein Problem mit seinem Temperament gehabt.“</DefaultText>
+      <DefaultText>»Das klingt danach, als hätte dein Vater ein Problem mit seinem Temperament gehabt.«</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>42</ID>
-      <DefaultText>„Trotz seiner anfänglichen Zustimmung zu der Abmachung war Vater niemals glücklich damit. Wenn meine Mutter zu Hause war, hetzte und tadelte er sie. Er wollte wissen, ob sie die Gespielin des Thayns sei, und egal, wie oft sie ihm das Gegenteil schwor, es war niemals genug.“ 
+      <DefaultText>»Trotz seiner anfänglichen Zustimmung zu der Abmachung war Vater niemals glücklich damit. Wenn meine Mutter zu Hause war, hetzte und tadelte er sie. Er wollte wissen, ob sie die Gespielin des Thayns sei, und egal, wie oft sie ihm das Gegenteil schwor, es war niemals genug.« 
 
-„Wie du dir vorstellen kannst, führte das dazu, dass sie immer weniger nach Hause kam, obwohl sie uns weiterhin finanziell unterstützte.“</DefaultText>
+»Wie du dir vorstellen kannst, führte das dazu, dass sie immer weniger nach Hause kam, obwohl sie uns weiterhin finanziell unterstützte.«</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>43</ID>
-      <DefaultText>„Was ist denn ein Haemneg?“</DefaultText>
+      <DefaultText>»Was ist denn ein Haemneg?«</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>44</ID>
-      <DefaultText>„Eine zeremonielle Heirat zwischen Menschen und Elfen. Da das Festland von Aedyr historisch zwischen den beiden Rassen aufgeteilt war, haben wir viele Einrichtungen, die auf die Normalisierung der Beziehungen hinarbeiten. Unserer Monarchie stehen Menschen vor, aber neben dem Fercönyng oder der Mecwyn herrscht ein elfischer Gefährte. Das ist das bedeutendste Beispiel für ein Haemneg.“</DefaultText>
+      <DefaultText>»Eine zeremonielle Heirat zwischen Menschen und Elfen. Da das Festland von Aedyr historisch zwischen den beiden Rassen aufgeteilt war, haben wir viele Einrichtungen, die auf die Normalisierung der Beziehungen hinarbeiten. Unserer Monarchie stehen Menschen vor, aber neben dem Fercönyng oder der Mecwyn herrscht ein elfischer Gefährte. Das ist das bedeutendste Beispiel für ein Haemneg.«</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>45</ID>
-      <DefaultText>„In vielen Fällen gestattet ein Haemneg zwei Haushalten, ihre Ressourcen zusammenzulegen. Im Falle des Hochadels sichern Haemnegs die Macht. Manchmal aber, wie im Fall meiner Mutter, ist ein Haemneg ein Mittel für jemand von edlem Blut, seinem oder ihrem Haushalt einen weiteren Verwalter hinzuzufügen. Gefährten werden von ihren edelblütigen Gegenstücken mit annähernd demselben Respekt empfangen, was äußerst nützlich sein kann.“</DefaultText>
+      <DefaultText>»In vielen Fällen gestattet ein Haemneg zwei Haushalten, ihre Ressourcen zusammenzulegen. Im Falle des Hochadels sichern Haemnegs die Macht. Manchmal aber, wie im Fall meiner Mutter, ist ein Haemneg ein Mittel für jemand von edlem Blut, seinem oder ihrem Haushalt einen weiteren Verwalter hinzuzufügen. Gefährten werden von ihren edelblütigen Gegenstücken mit annähernd demselben Respekt empfangen, was äußerst nützlich sein kann.«</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>46</ID>
-      <DefaultText>„Natürlich werden Haemnegs manchmal auch dazu missbraucht, eine außereheliche Affäre zu legitimieren.“ Er zuckt mit den Achseln. „Ich weiß nicht, ob das wirklich besser ist, aber es scheint die allgemeine Auffassung von Anstand zu befriedigen. Verbindungen zwischen Elf und Mensch bringen keine Nachkommen hervor, was zweifelsohne einige Sorgen abschwächt.“</DefaultText>
+      <DefaultText>»Natürlich werden Haemnegs manchmal auch dazu missbraucht, eine außereheliche Affäre zu legitimieren.« Er zuckt mit den Achseln. »Ich weiß nicht, ob das wirklich besser ist, aber es scheint die allgemeine Auffassung von Anstand zu befriedigen. Verbindungen zwischen Elf und Mensch bringen keine Nachkommen hervor, was zweifelsohne einige Sorgen abschwächt.«</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>47</ID>
-      <DefaultText>„Er hatte ein Problem mit dem Haemneg meiner Mutter. Obwohl sie sich vor langer Zeit darüber geeinigt hatten, dass die finanziellen Vorteile beträchtlich und seine Rolle kaum geringer als die des Burgvogts des Grafen sein würde, macht es ihm zu schaffen … und so trank und wütete er. Wenn sie zu Hause war, ließ er seinen Zorn an ihr aus, und wenn sie nicht da war, an mir.“</DefaultText>
+      <DefaultText>»Er hatte ein Problem mit dem Haemneg meiner Mutter. Obwohl sie sich vor langer Zeit darüber geeinigt hatten, dass die finanziellen Vorteile beträchtlich und seine Rolle kaum geringer als die des Burgvogts des Grafen sein würde, macht es ihm zu schaffen … und so trank und wütete er. Wenn sie zu Hause war, ließ er seinen Zorn an ihr aus, und wenn sie nicht da war, an mir.«</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>48</ID>
-      <DefaultText>„Mehr als alles in der Welt wollte er, dass ich ein arkaner Ritter in Diensten seines Grafen werde. Ich glaube, er dachte, das würde seine Karrierepläne bestätigen und seinen Herrn befriedigen. Wir du gesehen hast, war er ein … harter Mann, aber letztendlich wurde ich ein erfolgreicher Zauberer, obwohl seine Strenge einen nicht geringen Anteil daran hatte.“</DefaultText>
+      <DefaultText>»Mehr als alles in der Welt wollte er, dass ich ein arkaner Ritter in Diensten seines Grafen werde. Ich glaube, er dachte, das würde seine Karrierepläne bestätigen und seinen Herrn befriedigen. Wir du gesehen hast, war er ein … harter Mann, aber letztendlich wurde ich ein erfolgreicher Zauberer, obwohl seine Strenge einen nicht geringen Anteil daran hatte.«</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>49</ID>
-      <DefaultText>„Unsinn. Du hast das selbst erreicht, und das wäre auch so gekommen, wenn er dich nicht unter Druck gesetzt hätte.“</DefaultText>
+      <DefaultText>»Unsinn. Du hast das selbst erreicht, und das wäre auch so gekommen, wenn er dich nicht unter Druck gesetzt hätte.«</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>50</ID>
-      <DefaultText>„Damals war es schwer, das zu sehen, aber Druck kann manchmal recht hilfreich sein.“</DefaultText>
+      <DefaultText>»Damals war es schwer, das zu sehen, aber Druck kann manchmal recht hilfreich sein.«</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>51</ID>
-      <DefaultText>„Genau meine Gedanken. Jetzt kann ich mit Leichtigkeit behaupten, dass die Fähigkeiten, die ich erlernte, die Herausforderungen wert waren.“</DefaultText>
+      <DefaultText>»Genau meine Gedanken. Jetzt kann ich mit Leichtigkeit behaupten, dass die Fähigkeiten, die ich erlernte, die Herausforderungen wert waren.«</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>52</ID>
-      <DefaultText>„Bist du dir so sicher? Ich wusste nicht, was ich damals von meinem Leben erwarten sollte. Ohne eine kleine Wegweisung wäre ich sicherlich nicht so zielstrebig gewesen.“</DefaultText>
+      <DefaultText>»Bist du dir so sicher? Ich wusste nicht, was ich damals von meinem Leben erwarten sollte. Ohne eine kleine Wegweisung wäre ich sicherlich nicht so zielstrebig gewesen.«</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>53</ID>
-      <DefaultText>„Ich bin mir sicher, dass sie versuchte, sich auf die ihr eigene Art um dich zu kümmern.“</DefaultText>
+      <DefaultText>»Ich bin mir sicher, dass sie versuchte, sich auf die ihr eigene Art um dich zu kümmern.«</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>54</ID>
-      <DefaultText>„Sie hätte dich nicht so verlassen sollen.“</DefaultText>
+      <DefaultText>»Sie hätte dich nicht so verlassen sollen.«</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>55</ID>
-      <DefaultText>Er richtet seinen Kopf auf. „Als Verlassen habe ich es nie angesehen. Sie bekleidete einen wichtigen Posten und verwaltete die Ländereien und administrativen Pflichten des Fürst-Thayns, und obwohl sie nicht bei uns war, sorgte sie doch gut für uns.“</DefaultText>
+      <DefaultText>Er richtet seinen Kopf auf. »Als Verlassen habe ich es nie angesehen. Sie bekleidete einen wichtigen Posten und verwaltete die Ländereien und administrativen Pflichten des Fürst-Thayns, und obwohl sie nicht bei uns war, sorgte sie doch gut für uns.«</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>56</ID>
-      <DefaultText>„Ich glaube schon. Sie bekleidete einen wichtigen Posten und verwaltete die Ländereien und administrativen Pflichten des Fürst-Thayns, und obwohl sie nicht bei uns war, sorgte sie doch gut für uns.“</DefaultText>
+      <DefaultText>»Ich glaube schon. Sie bekleidete einen wichtigen Posten und verwaltete die Ländereien und administrativen Pflichten des Fürst-Thayns, und obwohl sie nicht bei uns war, sorgte sie doch gut für uns.«</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>57</ID>
-      <DefaultText>„Mehr wollte ich wirklich nicht wissen.“</DefaultText>
+      <DefaultText>»Mehr wollte ich wirklich nicht wissen.«</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>58</ID>
-      <DefaultText>Er sieht erleichtert aus. „Nun gut.“</DefaultText>
+      <DefaultText>Er sieht erleichtert aus. »Nun gut.«</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -301,36 +301,36 @@ Er legt die Fingerkuppen zusammen. „Ich habe mich jedenfalls gut genug angepas
     </Entry>
     <Entry>
       <ID>60</ID>
-      <DefaultText>„Wie genau ist es dazu gekommen, dass du dem Bleiernen Schlüssel beigetreten bist?“</DefaultText>
+      <DefaultText>»Wie genau ist es dazu gekommen, dass du dem Bleiernen Schlüssel beigetreten bist?«</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>61</ID>
-      <DefaultText>„Wie es so oft mit diesen Torheiten ist: Ich war jung und orientierungslos. Der Bleierne Schlüssel versprach mir die Ordnung, die mir im Leben fehlte, und sie boten mir eine Zukunft weit weg vom Dienst für den Grafen meines Vaters an.“</DefaultText>
+      <DefaultText>»Wie es so oft mit diesen Torheiten ist: Ich war jung und orientierungslos. Der Bleierne Schlüssel versprach mir die Ordnung, die mir im Leben fehlte, und sie boten mir eine Zukunft weit weg vom Dienst für den Grafen meines Vaters an.«</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>62</ID>
-      <DefaultText>„Du hast endlich die Kontrolle über Iselmyr erlangt. Fühlst du dich jetzt irgendwie verändert?“</DefaultText>
+      <DefaultText>»Du hast endlich die Kontrolle über Iselmyr erlangt. Fühlst du dich jetzt irgendwie verändert?«</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>63</ID>
-      <DefaultText>„Also … hast du Frieden mit Iselmyr geschlossen? Wie fühlt sich das an?“</DefaultText>
+      <DefaultText>»Also … hast du Frieden mit Iselmyr geschlossen? Wie fühlt sich das an?«</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>64</ID>
-      <DefaultText>„Entspannend. Mehr, als ich erwartet hatte. So streitsüchtig sie auch sein mag, ich dachte, sie hereinzulassen, würden lediglich den Sturm entfesseln. Aber jetzt, da ich nicht mehr gegen sie kämpfe, scheint sie auch nicht mehr gegen mich zu kämpfen.“
+      <DefaultText>»Entspannend. Mehr, als ich erwartet hatte. So streitsüchtig sie auch sein mag, ich dachte, sie hereinzulassen, würden lediglich den Sturm entfesseln. Aber jetzt, da ich nicht mehr gegen sie kämpfe, scheint sie auch nicht mehr gegen mich zu kämpfen.«
 
-Er seufzt. „Und du hattest Recht: Ich habe Vieles entdeckt, das ich von ihr lernen kann.“</DefaultText>
+Er seufzt. »Und du hattest Recht: Ich habe Vieles entdeckt, das ich von ihr lernen kann.«</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>65</ID>
-      <DefaultText>„Nur … ruhiger. Zufrieden. Es ist schon merkwürdig: Ich habe mich so lange gegen ihre Störungen und Einbrüche gewehrt, ohne sie wirklich aufzuhalten. Ich war es nicht gewohnt, entscheidende Schritte zu ergreifen, und ich dachte nicht, dass ich die Macht über jemanden hätte, die meinen eigenen Verstand infiltriert hatte.“
+      <DefaultText>»Nur … ruhiger. Zufrieden. Es ist schon merkwürdig: Ich habe mich so lange gegen ihre Störungen und Einbrüche gewehrt, ohne sie wirklich aufzuhalten. Ich war es nicht gewohnt, entscheidende Schritte zu ergreifen, und ich dachte nicht, dass ich die Macht über jemanden hätte, die meinen eigenen Verstand infiltriert hatte.«
 
-Er lächelt langsam. „Zu sehen, dass ich Unrecht hatte, war eine angenehme Überraschung.“</DefaultText>
+Er lächelt langsam. »Zu sehen, dass ich Unrecht hatte, war eine angenehme Überraschung.«</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -340,98 +340,98 @@ Er lächelt langsam. „Zu sehen, dass ich Unrecht hatte, war eine angenehme Üb
     </Entry>
     <Entry>
       <ID>69</ID>
-      <DefaultText>„Ich verstehe.“</DefaultText>
+      <DefaultText>»Ich verstehe.«</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>70</ID>
-      <DefaultText>„Ich werde mit Freuden eines Tages zurückkehren, obwohl ich nicht sicher bin, wann das sein wird.“</DefaultText>
+      <DefaultText>»Ich werde mit Freuden eines Tages zurückkehren, obwohl ich nicht sicher bin, wann das sein wird.«</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>71</ID>
-      <DefaultText>Er wirft angestrengt die Stirn in Falten. „Ihre … Usurpationen sind unangenehm genug. Ich giere nicht gerade danach, sie mehr als notwendig in mein Bewusstsein hineinzulassen.“</DefaultText>
+      <DefaultText>Er wirft angestrengt die Stirn in Falten. »Ihre … Usurpationen sind unangenehm genug. Ich giere nicht gerade danach, sie mehr als notwendig in mein Bewusstsein hineinzulassen.«</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>72</ID>
-      <DefaultText>„Lass uns etwas anderes besprechen.“</DefaultText>
+      <DefaultText>»Lass uns etwas anderes besprechen.«</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>73</ID>
-      <DefaultText>„In der Tat.“ </DefaultText>
+      <DefaultText>»In der Tat.« </DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>74</ID>
-      <DefaultText>„Sie wurde in ein Haemneg mit einem landbesitzenden Thayn eingeladen, als ich noch sehr jung war. Sein Gutshaus lag einen Fünftagesritt von unserem Zuhause um Cythwald entfernt, also spielte das auch eine Rolle.“
+      <DefaultText>»Sie wurde in ein Haemneg mit einem landbesitzenden Thayn eingeladen, als ich noch sehr jung war. Sein Gutshaus lag einen Fünftagesritt von unserem Zuhause um Cythwald entfernt, also spielte das auch eine Rolle.«
 
-Er legt die Stirn kaum merklich in Falten. „Das wirkliche Problem aber war mein Vater.“</DefaultText>
+Er legt die Stirn kaum merklich in Falten. »Das wirkliche Problem aber war mein Vater.«</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>75</ID>
-      <DefaultText>„Obwohl ich es bevorzuge, mit meiner eigenen Stimme zu sprechen, kannst du dir sicher sein, dass sie selbst in diesem Augenblick anwesend ist.“</DefaultText>
+      <DefaultText>»Obwohl ich es bevorzuge, mit meiner eigenen Stimme zu sprechen, kannst du dir sicher sein, dass sie selbst in diesem Augenblick anwesend ist.«</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>76</ID>
-      <DefaultText>„Hättest du einen Vorschlag, was ich als nächstes tun sollte?“</DefaultText>
+      <DefaultText>»Hättest du einen Vorschlag, was ich als nächstes tun sollte?«</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>77</ID>
-      <DefaultText>„Na ja, du hast hier das Kommando. Was mich betrifft, so ist jeder Ort besser als Goldtal.“</DefaultText>
+      <DefaultText>»Na ja, du hast hier das Kommando. Was mich betrifft, so ist jeder Ort besser als Goldtal.«</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>78</ID>
-      <DefaultText>Sein Blick fällt auf Edér. „Nichts für ungut!“ </DefaultText>
+      <DefaultText>Sein Blick fällt auf Edér. »Nichts für ungut!« </DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>79</ID>
-      <DefaultText>„In Aedyr ist die Beseelung möglicherweise noch kontroverser als hier. Die Ausübung der Beseelung ist schon seit sechshundert Jahren geächtet, aber Verbote haben es an sich, die Neugier zu schüren.“
+      <DefaultText>»In Aedyr ist die Beseelung möglicherweise noch kontroverser als hier. Die Ausübung der Beseelung ist schon seit sechshundert Jahren geächtet, aber Verbote haben es an sich, die Neugier zu schüren.«
 
-„Der Erfolg und die - relativ gesehene - Akzeptanz der Beseelung hierzulande und in den Vailianischen Republiken hat das Interesse in Aedyr wieder aufflammen lassen.“</DefaultText>
+»Der Erfolg und die - relativ gesehene - Akzeptanz der Beseelung hierzulande und in den Vailianischen Republiken hat das Interesse in Aedyr wieder aufflammen lassen.«</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>80</ID>
-      <DefaultText>„Der Bleierne Schlüssel begann, aggressiver nach neuen Rekruten zu werben, und als mich einer meiner Lehrmeister ansprach, befand ich mich in der letzten Phase meiner Ausbildung.“
+      <DefaultText>»Der Bleierne Schlüssel begann, aggressiver nach neuen Rekruten zu werben, und als mich einer meiner Lehrmeister ansprach, befand ich mich in der letzten Phase meiner Ausbildung.«
 
-Er zuckt mit den Achseln. „Wie ich schon sagte, es war mir eine willkommene Möglichkeit, mich den Plänen meines Vaters zu entziehen, und nachdem ich gesehen hatte, wie ein paar meiner Kollegen ihre magischen Studien abgebrochen hatten, um in den Republiken der Beseelung nachzugehen, war ich überzeugt, dass etwas getan werden musste, um deren Ausbreitung aufzuhalten.“</DefaultText>
+Er zuckt mit den Achseln. »Wie ich schon sagte, es war mir eine willkommene Möglichkeit, mich den Plänen meines Vaters zu entziehen, und nachdem ich gesehen hatte, wie ein paar meiner Kollegen ihre magischen Studien abgebrochen hatten, um in den Republiken der Beseelung nachzugehen, war ich überzeugt, dass etwas getan werden musste, um deren Ausbreitung aufzuhalten.«</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>81</ID>
-      <DefaultText>Er zupft an seinen Ärmeln. „Maerwald drängte dich, diese Agenten des Bleiernen Schlüssels in Trutzbucht ausfindig zu machen, oder? Sein … Zustand sollte uns Warnung genug sein, und wir sollten sie mit aller Eile suchen.“</DefaultText>
+      <DefaultText>Er zupft an seinen Ärmeln. »Maerwald drängte dich, diese Agenten des Bleiernen Schlüssels in Trutzbucht ausfindig zu machen, oder? Sein … Zustand sollte uns Warnung genug sein, und wir sollten sie mit aller Eile suchen.«</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>82</ID>
-      <DefaultText>Sein Gesichtsausdruck ist ernst. „Wir wissen, was vor uns liegt. Lass uns das mit Thaos ein für alle Mal erledigen.“</DefaultText>
+      <DefaultText>Sein Gesichtsausdruck ist ernst. »Wir wissen, was vor uns liegt. Lass uns das mit Thaos ein für alle Mal erledigen.«</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>83</ID>
-      <DefaultText>„Thaos ist uns bereits einen Schritt voraus. Wir müssen uns beeilen, wenn wir ihn in Sonne im Schatten ergreifen wollen.“</DefaultText>
+      <DefaultText>»Thaos ist uns bereits einen Schritt voraus. Wir müssen uns beeilen, wenn wir ihn in Sonne im Schatten ergreifen wollen.«</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>84</ID>
-      <DefaultText>„Anscheinend sind dieser Thaos und der Bleierne Schlüssel dafür verantwortlich.“ Er streicht seine Kutte glatt. „Wir müssen mehr darüber in Erfahrung bringen, was sie im Schilde führen.“</DefaultText>
+      <DefaultText>»Anscheinend sind dieser Thaos und der Bleierne Schlüssel dafür verantwortlich.« Er streicht seine Kutte glatt. »Wir müssen mehr darüber in Erfahrung bringen, was sie im Schilde führen.«</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>85</ID>
-      <DefaultText>Sein Mund zuckt, und er runzelt die Stirn. „Jetzt suchst du nach dem Bleiernen Schlüssel, oder?“ „Wenn ich du wäre, würde ich gerne wissen, was sie vorhaben.“ Er kneift seine Augen zusammen. „Ich vermute, die Hinweise der Akolythin sollten sich als äußerst hilfreich erweisen.“</DefaultText>
+      <DefaultText>Sein Mund zuckt, und er runzelt die Stirn. »Jetzt suchst du nach dem Bleiernen Schlüssel, oder?« »Wenn ich du wäre, würde ich gerne wissen, was sie vorhaben.« Er kneift seine Augen zusammen. »Ich vermute, die Hinweise der Akolythin sollten sich als äußerst hilfreich erweisen.«</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>86</ID>
-      <DefaultText>„Das ist alles.“</DefaultText>
+      <DefaultText>»Das ist alles.«</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -461,41 +461,41 @@ Er zuckt mit den Achseln. „Wie ich schon sagte, es war mir eine willkommene M�
     </Entry>
     <Entry>
       <ID>92</ID>
-      <DefaultText>Er blickt zurück zu der Säule. „Aber selbst, wenn du die Seelen jetzt an einen bestimmten Ort schickst - wer weiß, was die nächste Drehung des Rades mit ihnen macht? [Player Name], was mit ihnen geschieht, das können wir nicht kontrollieren, und wir sollten es auch nicht versuchen. Um das zu verstehen, musste ich erst sehen, zu welchem Monster Thaos geworden ist.“</DefaultText>
+      <DefaultText>Er blickt zurück zu der Säule. »Aber selbst, wenn du die Seelen jetzt an einen bestimmten Ort schickst - wer weiß, was die nächste Drehung des Rades mit ihnen macht? [Player Name], was mit ihnen geschieht, das können wir nicht kontrollieren, und wir sollten es auch nicht versuchen. Um das zu verstehen, musste ich erst sehen, zu welchem Monster Thaos geworden ist.«</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>93</ID>
-      <DefaultText>Er blickt zurück zu der Säule. „[Player Name], das übersteigt uns beide. Die Gewissheit der Götter ist eine Gnade. Solche Macht ist eine schwere Bürde - du hast gesehen, wie sie Thaos zerstört hat.“ 
+      <DefaultText>Er blickt zurück zu der Säule. »[Player Name], das übersteigt uns beide. Die Gewissheit der Götter ist eine Gnade. Solche Macht ist eine schwere Bürde - du hast gesehen, wie sie Thaos zerstört hat.« 
 
-Er richtet seinen Blick auf dich. „Vielleicht hat er Recht daran getan, es Woedica zu überlassen.“</DefaultText>
+Er richtet seinen Blick auf dich. »Vielleicht hat er Recht daran getan, es Woedica zu überlassen.«</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>94</ID>
-      <DefaultText>Er blickt auf die gewaltige Adra-Säule. „Erstaunlich. Ich wusste schon immer, dass der Bleierne Schlüssel für etwas Großes steht, doch mir war nicht ganz klar, in was ich da hineingeraten war.“
+      <DefaultText>Er blickt auf die gewaltige Adra-Säule. »Erstaunlich. Ich wusste schon immer, dass der Bleierne Schlüssel für etwas Großes steht, doch mir war nicht ganz klar, in was ich da hineingeraten war.«
 
-„Und nun steckst du mitten in etwas noch Größerem. Mit einer Entscheidung, die Millionen beeinflussen wird.“</DefaultText>
+»Und nun steckst du mitten in etwas noch Größerem. Mit einer Entscheidung, die Millionen beeinflussen wird.«</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>95</ID>
-      <DefaultText>„Vielleicht.“</DefaultText>
+      <DefaultText>»Vielleicht.«</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>96</ID>
-      <DefaultText>„Thaos hat sich getäuscht.“</DefaultText>
+      <DefaultText>»Thaos hat sich getäuscht.«</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>97</ID>
-      <DefaultText>„Es ist natürlich deine Entscheidung. Und wie du auch entscheiden magst, ich bin froh, dass unsere Wege sich in Goldtal gekreuzt haben.“</DefaultText>
+      <DefaultText>»Es ist natürlich deine Entscheidung. Und wie du auch entscheiden magst, ich bin froh, dass unsere Wege sich in Goldtal gekreuzt haben.«</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>98</ID>
-      <DefaultText>„Etwas so Wichtiges überlasse ich nicht dem Zufall.“</DefaultText>
+      <DefaultText>»Etwas so Wichtiges überlasse ich nicht dem Zufall.«</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
