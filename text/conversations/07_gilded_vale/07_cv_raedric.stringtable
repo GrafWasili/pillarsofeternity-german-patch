@@ -244,14 +244,14 @@ Er schüttelt den Kopf. »Und mit dem Vermächtnis kam die Verzweiflung. Wie hä
     </Entry>
     <Entry>
       <ID>56</ID>
-      <DefaultText>»Und nun … « Raedric senkt seinen Blick. »Nun würde ich gerne meine Frau beerdigen und in die Zukunft schauen. Bevor man Goldtal sicher nennen kann, liegt noch sehr viel Arbeit vor uns. Vielen Dank für deine Unterstützung.«</DefaultText>
+      <DefaultText>»Und nun …« Raedric senkt seinen Blick. »Nun würde ich gerne meine Frau beerdigen und in die Zukunft schauen. Bevor man Goldtal sicher nennen kann, liegt noch sehr viel Arbeit vor uns. Vielen Dank für deine Unterstützung.«</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>57</ID>
       <DefaultText>»Ich wusste, dass Berath solche Grausamkeiten nicht dulden würde - es sei denn, wir hätten seine Gunst verloren. Manche im Dorf klammern sich noch immer an einen falschen Glauben und huldigen dem falschen Gott. Sie verehren ihn im Geheimen, obwohl sie wissen, was das über uns bringt.« 
 
-» … Meine eigene Frau setzte ihre Ketzereien gegen meinen Willen fort. Und als unser Kind geboren wurde, sahen wir, dass keine Sünde unerkannt bleibt.« Er mahlt mit seinen Zähnen. »Kein Mann kann sich Beraths Urteil entziehen. Keine Frau.«</DefaultText>
+»… Meine eigene Frau setzte ihre Ketzereien gegen meinen Willen fort. Und als unser Kind geboren wurde, sahen wir, dass keine Sünde unerkannt bleibt.« Er mahlt mit seinen Zähnen. »Kein Mann kann sich Beraths Urteil entziehen. Keine Frau.«</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -375,7 +375,7 @@ Edérs Gesicht ist zwar ruhig, aber du bemerkst, wie seine Hand zu seiner Waffe 
     </Entry>
     <Entry>
       <ID>82</ID>
-      <DefaultText>» … Die Flamme hat sie verzehrt. Meine Ygrid.« Raedric schaut auf den Dolch, und die Worte bleiben ihm kurz im Hals stecken. » … Und unser Kind mit ihr.«</DefaultText>
+      <DefaultText>»… Die Flamme hat sie verzehrt. Meine Ygrid.« Raedric schaut auf den Dolch, und die Worte bleiben ihm kurz im Hals stecken. »… Und unser Kind mit ihr.«</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
